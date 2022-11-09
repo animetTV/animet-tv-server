@@ -1,0 +1,2890 @@
+[
+    {
+        "type":"Action",
+        "animes":[
+            {
+                "title":"Baccano!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=32ce1ad2936def90d8b51ddeef6a82cd"
+            },
+            {
+                "title":"Black Lagoon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/25596.jpg?s=bac44e7495c96d18b47f21de83b42690"
+            },
+            {
+                "title":"Claymore",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/21834.jpg?s=8e6b13bd5e49f2cd4d2f9b7ee1ce2f8c"
+            },
+            {
+                "title":"Cowboy Bebop",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=bb1e96eb0a0224a57aa45443eab92575"
+            },
+            {
+                "title":"Darker than Black",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50373.jpg"
+            },
+            {
+                "title":"Fate/Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73249.jpg?s=0ddd3d84549e11eda144df33626f97ae"
+            },
+            {
+                "title":"Ghost in the Shell",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50857.jpg"
+            },
+            {
+                "title":"Gungrave",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75724.jpg?s=6b33813d0b97727b3a3acffe48119a5d"
+            },
+            {
+                "title":"Hellsing Ultimate",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/7333.jpg?s=00a2f1443aaff74d48d9a5547db67cc3"
+            },
+            {
+                "title":"Katanagatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/50023.jpg?s=dbe6e0fbe6c8a09748547eb87e6df5f4"
+            },
+            {
+                "title":"Shoujo☆Kageki Revue Starlight",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1165/93552.jpg?s=e4c23570ea1df3a5f5cd26290d75b540"
+            },
+            {
+                "title":"Sword of the Stranger",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/87066.jpg"
+            },
+            {
+                "title":"Tiger and Bunny",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/29466.jpg"
+            },
+            {
+                "title":"Youjo Senki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/82890.jpg?s=b8b3b76d7d72c1730859e6e0f7a88dd7"
+            }
+        ]
+    },
+    {
+        "type":"Battle Shounen",
+        "animes":[
+            {
+                "title":"Akame ga Kill",
+                "img_url":"https://cdn.myanimelist.net/images/manga/1/187665.jpg"
+            },
+            {
+                "title":"Assassination Classroom",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/75639.jpg"
+            },
+            {
+                "title":"Attack on Titan",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+            },
+            {
+                "title":"Boku no Hero Academia",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/78745.jpg?s=8ea4cb2e8a861e63757d3c05aa5d32c2"
+            },
+            {
+                "title":"Fire Force",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1664/103275.jpg"
+            },
+            {
+                "title":"Fullmetal Alchemist: Brotherhood",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=faffcb677a5eacd17bf761edd78bfb3f"
+            },
+            {
+                "title":"Hunter x Hunter (2011)",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/33657.jpg?s=5724d8c22ae7a1dad72d8f4229ef803f"
+            },
+            {
+                "title":"JoJo's Bizarre Adventure",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/40409.jpg"
+            },
+            {
+                "title":"Kimetsu no Yaiba",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1286/99889.jpg?s=e497d08bef31ae412e314b90a54acfda"
+            },
+            {
+                "title":"Rurouni Kenshin",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/6803.jpg"
+            },
+            {
+                "title":"Yuu Yuu Hakusho",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1228/111372.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Over the top Actio",
+        "animes":[
+            {
+                "title":"Dead Leaves",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/8621.jpg?s=3db3945234405516dfbde0c71720ea41"
+            },
+            {
+                "title":"FLCL",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=4c740722edcf938c372197fc31aaa060"
+            },
+            {
+                "title":"Kill la Kill",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1464/111943.jpg?s=b350450d3d98aa57f05bb4fbdb9d5209"
+            },
+            {
+                "title":"Mob Psycho 100",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/80356.jpg?s=1d7f8902c64d166b821e50ea68267c2a"
+            },
+            {
+                "title":"One Punch Man",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/76049.jpg?s=40b6c7dbbbb94c44675116d301150078"
+            },
+            {
+                "title":"Redline",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/28553.jpg?s=7599b6753f08d5091209534974c60b2c"
+            },
+            {
+                "title":"Tengen Toppa Gurren Lagann",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=15bb64e0c8b13acfa5d0761308b66f59"
+            }
+        ]
+    },
+    {
+        "type":"Action Comedy",
+        "animes":[
+            {
+                "title":"One Punch Man",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/76049.jpg?s=40b6c7dbbbb94c44675116d301150078"
+            },
+            {
+                "title":"Bungou Stray Dogs",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/79409.jpg?s=2885c50dd479ff9260ca95f5e1b786d6"
+            },
+            {
+                "title":"Kekkai Sensen",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73559.jpg?s=f370251d2253f590a75febc00c1408bc"
+            },
+            {
+                "title":"Soul Eater",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/7804.jpg?s=79bc552f49367091976b90b724c4eb0d"
+            },
+            {
+                "title":"Trigun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/20310.jpg?s=0a1be11b2b831d3b50747ec526e5f8fd"
+            }
+        ]
+    },
+    {
+        "type":"Adventure",
+        "animes":[
+            {
+                "title":"Akatsuki no Yona",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/64225.jpg?s=737ae431d2d534df34adc4da74b55d32"
+            },
+            {
+                "title":"Cowboy Bebop",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=bb1e96eb0a0224a57aa45443eab92575"
+            },
+            {
+                "title":"Dororo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1879/100467.jpg?s=fd59137a5eb37dbabe9510bde27fe4ba"
+            },
+            {
+                "title":"Dog Days",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/75378.jpg?s=9f732574d1c5a0a7c6c4dc71dc4b4724"
+            },
+            {
+                "title":"Girls’ Last Tour",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/88321.jpg"
+            },
+            {
+                "title":"Gosick",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/27906.jpg?s=3c526813037a0e2cfc51b726ada7d735"
+            },
+            {
+                "title":"Golden Kamuy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1145/90880.jpg?s=251d39fd8934a474c1baabb7cc44d998"
+            },
+            {
+                "title":"Hitsugi no Chaika",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/61781.jpg?s=79806c5eb77189972b9d8714f29d0c4d"
+            },
+            {
+                "title":"Kino no Tabi: The Beautiful World",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1763/95397.jpg"
+            },
+            {
+                "title":"Made in Abyss",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/86733.jpg"
+            },
+            {
+                "title":"Mushishi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=d976f75f480430a0c9fde4455696131d"
+            },
+            {
+                "title":"A Place Further than the Universe",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/89879.jpg"
+            },
+            {
+                "title":"Shingeki no Bahamut: Genesis",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/67513.jpg?s=a35565ddc71e4e0a798a9b7d102cc248"
+            },
+            {
+                "title":"Spice and Wolf",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/59399.jpg"
+            },
+            {
+                "title":"Wolf’s Rain",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/59403.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Action Adventure",
+        "animes":[
+            {
+                "title":"Fullmetal Alchemist: Brotherhood",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=faffcb677a5eacd17bf761edd78bfb3f"
+            },
+            {
+                "title":"Hunter x Hunter (2011)",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/33657.jpg?s=5724d8c22ae7a1dad72d8f4229ef803f"
+            },
+            {
+                "title":"JoJo's Bizarre Adventure",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/40409.jpg"
+            },
+            {
+                "title":"Katanagatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/50023.jpg?s=dbe6e0fbe6c8a09748547eb87e6df5f4"
+            },
+            {
+                "title":"Lupin III",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/15625.jpg?s=ee0a2f0d59fa5dbe4107c51a81545db8"
+            },
+            {
+                "title":"Magi: The Labyrinth of Magic",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=97c79399d2f65716e2972d3b30fc9c99"
+            },
+            {
+                "title":"Nanatsu no Taizai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/65409.jpg?s=9045a2ed86abe77a6b24f0ad7f114485"
+            },
+            {
+                "title":"One Piece",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=f792b8c9e28534ae455d06b15e686a14"
+            },
+            {
+                "title":"Samurai Champloo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=f1f4802d4403c077bc159591f056aee1"
+            },
+            {
+                "title":"Trigun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/20310.jpg?s=0a1be11b2b831d3b50747ec526e5f8fd"
+            }
+        ]
+    },
+    {
+        "type":"Comedy",
+        "animes":[
+            {
+                "title":"Arakawa Under the Bridge",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/59197.jpg?s=1f9892d79e07d372945b8f33554b17fe"
+            },
+            {
+                "title":"Azumanga Daioh",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/66.jpg?s=3ab1985c4a76949c97adbd847ef0c209"
+            },
+            {
+                "title":"Bokura wa Minna Kawaisou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/64629.jpg"
+            },
+            {
+                "title":"Cromartie High School",
+                "img_url":""
+            },
+            {
+                "title":"Demi-chan wa Kataritai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/83417.jpg?s=f858974cc43b541f21042e5c3ec303c2"
+            },
+            {
+                "title":"D-Frag!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1662/112108.jpg?s=86648fbb3b230c57529add1c38dedbae"
+            },
+            {
+                "title":"Great Teacher Onizuka",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/11460.jpg?s=7e890b7e93b7b57c2de4aa90211931bd"
+            },
+            {
+                "title":"Love Lab",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/50257.jpg?s=d34e5495a5d662a288f16eab8f2f463f"
+            },
+            {
+                "title":"Mangaka-san to Assistant-san to",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/62219.jpg"
+            },
+            {
+                "title":"Nyan Koi!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/18299.jpg?s=9439d1b20d8ae0a690e0cad34d005567"
+            },
+            {
+                "title":"OreImo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/24875.jpg"
+            },
+            {
+                "title":"Outbreak Company",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/54343.jpg?s=465a0d320158a05deb53ebda10022b93"
+            },
+            {
+                "title":"Sabagebu!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/60207.jpg"
+            },
+            {
+                "title":"Sakurasou no Pet na Kanojo",
+                "img_url":"https://cdn.myanimelist.net/images/manga/2/159577.jpg"
+            },
+            {
+                "title":"School Rumble",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75488.jpg?s=db91af71994aa699883b43d35965e34a"
+            },
+            {
+                "title":"Seitokai Yakuindomo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75550.jpg?s=bd5a5ea54613e2d18edef54147371ee0"
+            },
+            {
+                "title":"Working!!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75262.jpg?s=6077f0616e8fab853db4a3039b86c457"
+            },
+            {
+                "title":"Yuyushiki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/48747.jpg?s=a91c665f7741ca411924bdd895c2a800"
+            }
+        ]
+    },
+    {
+        "type":"Aburdist Humour",
+        "animes":[
+            {
+                "title":"Nichijou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/75617.jpg?s=a6141f357026aca2496b1a9debaf9d2b"
+            },
+            {
+                "title":"Stocking with Garterbelt",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73643.jpg"
+            },
+            {
+                "title":"Plastic Nee-san",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/72750.jpg"
+            },
+            {
+                "title":"Teekyuu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/56463.jpg?s=12fbdecdff537a91fe926e1fd07a5a02"
+            },
+            {
+                "title":"Yuru Yuri",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/75173.jpg?s=45933ee5442177e74c3fbc848b127752"
+            }
+        ]
+    },
+    {
+        "type":"Dark Humour",
+        "animes":[
+            {
+                "title":"Detroit Metal City",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/9853.jpg?s=01409a7f61f078eb0661eced9e766389"
+            },
+            {
+                "title":"Sayonara Zetsubou Sensei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/6559.jpg?s=1fa13ba08de3616a0913c6d847572f10"
+            },
+            {
+                "title":"Watamote",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/51619.jpg"
+            },
+            {
+                "title":"Welcome to the NHK!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/52675.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Dramedy",
+        "animes":[
+            {
+                "title":"Angel Beats",
+                "img_url":""
+            },
+            {
+                "title":"Barakamon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/65427.jpg?s=fa2f22ba147730525acb265769e568ab"
+            },
+            {
+                "title":"Castle Town Dandelion",
+                "img_url":""
+            },
+            {
+                "title":"Charlotte",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/74683.jpg?s=0e114784fff29d5f849a2e809db3f2cc"
+            },
+            {
+                "title":"Chuunibyou",
+                "img_url":""
+            },
+            {
+                "title":"Hinamatsuri",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/84695.jpg?s=e27c25f63be99083768987d2ec3b2ca1"
+            },
+            {
+                "title":"Kuragehime",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/24865.jpg?s=66f2021556935163bf73be9500601710"
+            },
+            {
+                "title":"The Tatami Galaxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/50457.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Comedy / Satire",
+        "animes":[
+            {
+                "title":"Aho-Girl",
+                "img_url":""
+            },
+            {
+                "title":"Asobi Asobase",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1139/95077.jpg?s=2206773784db0978f038bc8d1a7bfb9a"
+            },
+            {
+                "title":"Blend-S",
+                "img_url":""
+            },
+            {
+                "title":"Gabriel Dropout",
+                "img_url":""
+            },
+            {
+                "title":"Grand Blue",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1302/94882.jpg?s=3fc1cd740bf7ba7389dcd7aa9576af4e"
+            },
+            {
+                "title":"Kono Subarashii Sekai ni Shukufuku wo!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/77831.jpg?s=ae299e926b2d7a713c7daa9ab56876a4"
+            },
+            {
+                "title":"Nichijou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/75617.jpg?s=a6141f357026aca2496b1a9debaf9d2b"
+            },
+            {
+                "title":"Nisekoi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75587.jpg?s=62eb23b86cf20c3b322424c96703b742"
+            },
+            {
+                "title":"Nourin",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/57563.jpg?s=b0421067500e1485d5bc825361979fb1"
+            }
+        ]
+    },
+    {
+        "type":"Parody / Satire",
+        "animes":[
+            {
+                "title":"Carnival Phantasm",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1018/92921.jpg?s=d1d88b60d5367577c92c08ea60c964da"
+            },
+            {
+                "title":"Gekkan Shoujo Nozaki-kun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/66083.jpg?s=59ab3e9362a2bbed54ae5420b27032bb"
+            },
+            {
+                "title":"Ghost Stories",
+                "img_url":""
+            },
+            {
+                "title":"Gintama",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/73274.jpg?s=ed42453c10ba12b03b1600d02725a174"
+            },
+            {
+                "title":"Ore, Twintails ni Narimasu",
+                "img_url":""
+            },
+            {
+                "title":"Sayonara Zetsubou Sensei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/6559.jpg?s=1fa13ba08de3616a0913c6d847572f10"
+            },
+            {
+                "title":"Senyuu",
+                "img_url":""
+            },
+            {
+                "title":"The World God Only Knows",
+                "img_url":"The World God Only Knows"
+            }
+        ]
+    },
+    {
+        "type":"Drama",
+        "animes":[
+            {
+                "title":"3-gatsu no Lion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/82898.jpg?s=00b1b6c5680f33173c6f0c7664bb2a52"
+            },
+            {
+                "title":"Anohana",
+                "img_url":""
+            },
+            {
+                "title":"Angel Beats",
+                "img_url":""
+            },
+            {
+                "title":"Clannad",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1804/95033.jpg?s=9859f25603227060cb83ae886ea1b65d"
+            },
+            {
+                "title":"Hanasaku Iroha",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/28967.jpg?s=ba0907ba48aa91a3b4742c69b7e090df"
+            },
+            {
+                "title":"Hibike! Euphonium!",
+                "img_url":""
+            },
+            {
+                "title":"Hourou Musuko",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/53945.jpg?s=f2e1ef481d45d72fed17da2aa94c41f7"
+            },
+            {
+                "title":"Koe no Katachi/A Silent Voice",
+                "img_url":""
+            },
+            {
+                "title":"Koi Kaze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/61441.jpg?s=4be5843a95373c5ad03c942f77ce47ac"
+            },
+            {
+                "title":"Kokoro Connect",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/39665.jpg?s=4567681ec7406a3d240b64c79b46610b"
+            },
+            {
+                "title":"Kuzu no Honkai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/83937.jpg?s=027a32d2e68363c1ec746a0308f5617f"
+            },
+            {
+                "title":"Nagi no Asukara",
+                "img_url":""
+            },
+            {
+                "title":"Nana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/11232.jpg?s=fdcbc61fd7e6407fe3810192a1684acd"
+            },
+            {
+                "title":"Oregairu",
+                "img_url":""
+            },
+            {
+                "title":"Planetes",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=d46f1c78402853e6f1003b36e6de0b64"
+            },
+            {
+                "title":"Plastic Memories",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/72750.jpg?s=61d6461811fb65b5ad164b3d69115af8"
+            },
+            {
+                "title":"ReLIFE",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/82149.jpg?s=0eb8569cc7bae097d7c9a03d1efbdc36"
+            },
+            {
+                "title":"Rumbling Hearts",
+                "img_url":""
+            },
+            {
+                "title":"Sakurasou no Pet na Kanojo",
+                "img_url":"https://cdn.myanimelist.net/images/manga/2/159577.jpg"
+            },
+            {
+                "title":"School Days",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/86373.jpg?s=e2b5b8c705bda9a783f4f17ee66e36e5"
+            },
+            {
+                "title":"Shigatsu wa Kimi no Uso",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/67177.jpg?s=bc267f764bffe825e1e8d60f7185a2e9"
+            },
+            {
+                "title":"Shirobako",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1918/93511.jpg?s=b802f6b471585b9dd962ca67956a8997"
+            },
+            {
+                "title":"Shoujo☆Kageki Revue Starlight",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1165/93552.jpg?s=e4c23570ea1df3a5f5cd26290d75b540"
+            },
+            {
+                "title":"Shouwa Genroku Rakugo Shinjuu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/77907.jpg?s=29933c26544d4f41ce39d88c586914b7"
+            },
+            {
+                "title":"True Tears",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/18578.jpg?s=a8c1b1add79da91b24b63505ea34aa78"
+            },
+            {
+                "title":"Welcome to the NHK!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/52675.jpg"
+            },
+            {
+                "title":"Yuri on Ice",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/81149.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Mildly Ecchi",
+        "animes":[
+            {
+                "title":"Golden Boy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/62867.jpg?s=1fc891d40870585d7957121152b79da1"
+            },
+            {
+                "title":"Kämpfer",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/35423.jpg?s=9d61e2fcbd7a22d948a6e9a72617feea"
+            },
+            {
+                "title":"Kill la Kill",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1464/111943.jpg?s=b350450d3d98aa57f05bb4fbdb9d5209"
+            },
+            {
+                "title":"Ladies versus Butlers!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/75252.jpg?s=ed25e396200fe0cb14d0f962d1ed863c"
+            },
+            {
+                "title":"MM!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/85871.jpg?s=67985d9db89d447d8b6a72ef4ee2975a"
+            },
+            {
+                "title":"Saenai Heroine",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1671/111411.jpg"
+            },
+            {
+                "title":"Sekirei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/15182.jpg?s=12937915adf0555b82ca1c5baf5d768b"
+            },
+            {
+                "title":"Strike Witches",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75524.jpg?s=53c1052e181513a983a9e83c22cd8747"
+            },
+            {
+                "title":"Tsugumomo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/84461.jpg?s=7a8afc6a7b14ea8a5e2b7e79cbb6ea6b"
+            }
+        ]
+    },
+    {
+        "type":"Fairly Ecchi",
+        "animes":[
+            {
+                "title":"Highschool of the Dead",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/78311.jpg?s=f844b0a0eb565be6f052105c320dbc60"
+            },
+            {
+                "title":"Miru Tights",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1122/103222.jpg?s=96a1aca5ca5d82333a2384d44bb0e247"
+            },
+            {
+                "title":"Monogatari",
+                "img_url":""
+            },
+            {
+                "title":"Okusama ga Seitokaichou",
+                "img_url":""
+            },
+            {
+                "title":"Strike the Blood",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/56163.jpg?s=d5ceae087d157ee8af8fed5d1fede8de"
+            }
+        ]
+    },
+    {
+        "type":"Close To Hentai",
+        "animes":[
+            {
+                "title":"High School DxD",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1331/111940.jpg?s=ff42c65c550aa02f8f55ffb22c6a00ce"
+            },
+            {
+                "title":"Kiss x Sis",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/22223.jpg?s=e258e7f7f45fe8d66f02e3d69a89113d"
+            },
+            {
+                "title":"Monster Musume",
+                "img_url":""
+            },
+            {
+                "title":"The Testament of Sister New Devil",
+                "img_url":""
+            },
+            {
+                "title":"To LOVE Ru",
+                "img_url":""
+            },
+            {
+                "title":"Valkyrie Drive: Mermaid",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75528.jpg?s=d0d20d2a97a731c7d4c6c3bef3dd6495"
+            }
+        ]
+    },
+    {
+        "type":"Urban Fantasy",
+        "animes":[
+            {
+                "title":"Baccano!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=32ce1ad2936def90d8b51ddeef6a82cd"
+            },
+            {
+                "title":"Bungou Stray Dogs",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/79409.jpg?s=2885c50dd479ff9260ca95f5e1b786d6"
+            },
+            {
+                "title":"Fate/Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73249.jpg?s=0ddd3d84549e11eda144df33626f97ae"
+            },
+            {
+                "title":"Little Witch Academia (TV)",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/83934.jpg?s=de76306a5e67d43ffefe96cebf20218c"
+            },
+            {
+                "title":"Kara no Kyoukai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/21737.jpg"
+            },
+            {
+                "title":"Kekkai Sensen",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73559.jpg?s=f370251d2253f590a75febc00c1408bc"
+            },
+            {
+                "title":"Kyousougiga",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/85431.jpg"
+            },
+            {
+                "title":"Noragami",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/77809.jpg?s=5e4f31284abea2059db7fe1b07ff1fa5"
+            },
+            {
+                "title":"Puella Magi Madoka Magica",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/55225.jpg"
+            },
+            {
+                "title":"Uchouten Kazoku",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/85433.jpg?s=2c0eed2953c6b23d2b5555270e2a4279"
+            },
+            {
+                "title":"Yuu Yuu Hakusho",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1228/111372.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Historical Fantasy",
+        "animes":[
+            {
+                "title":"Arslan Senki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/22254.jpg?s=f21269ca7eed3fa81391f00ee255c8f0"
+            },
+            {
+                "title":"Drifters",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/80271.jpg?s=06bada5950d5c2f50d6dcd85c13a5fb1"
+            },
+            {
+                "title":"Junketsu no Maria",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/69301.jpg?s=b351c255b0e5b91d4624675239375ec8"
+            },
+            {
+                "title":"Magi: The Labyrinth of Magic",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=97c79399d2f65716e2972d3b30fc9c99"
+            },
+            {
+                "title":"Millenium Actress",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1648/93626.jpg"
+            },
+            {
+                "title":"Mononoke",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=3938ebc2f550dbab2563df778857ee86"
+            },
+            {
+                "title":"Mushishi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=d976f75f480430a0c9fde4455696131d"
+            },
+            {
+                "title":"Kimetsu no Yaiba",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1286/99889.jpg?s=e497d08bef31ae412e314b90a54acfda"
+            },
+            {
+                "title":"Romeo x Juliet",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/75159.jpg?s=b55e8282d878fb91a2a8b1f511f0ff66"
+            },
+            {
+                "title":"The Tale of Princess Kaguya",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1935/93606.jpg"
+            }
+        ]
+    },
+    {
+        "type":"High Fantasy",
+        "animes":[
+            {
+                "title":"Berserk",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/79352.jpg?s=bd668bd7511c8aa906e65697b7cfe151"
+            },
+            {
+                "title":"Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/85467.jpg"
+            },
+            {
+                "title":"Densetsu no Yuusha no Densetsu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/73651.jpg?s=b257d92ac3c729e07409aac4ea66fb00"
+            },
+            {
+                "title":"Endro~!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1300/111361.jpg"
+            },
+            {
+                "title":"Fullmetal Alchemist: Brotherhood",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=faffcb677a5eacd17bf761edd78bfb3f"
+            },
+            {
+                "title":"Hakumei to Mikochi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1250/91694.jpg?s=958eb4cb26e0307069a0550879db04ad"
+            },
+            {
+                "title":"Record of Lodoss War",
+                "img_url":""
+            },
+            {
+                "title":"Scrapped Princess",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1238/94717.jpg?s=93bc232c54979c73324a1959e7a64279"
+            },
+            {
+                "title":"Shingeki no Bahamut: Genesis",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/67513.jpg?s=a35565ddc71e4e0a798a9b7d102cc248"
+            }
+        ]
+    },
+    {
+        "type":"Dark Fantasy",
+        "animes":[
+
+            {
+                "title":"Claymore",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/21834.jpg?s=8e6b13bd5e49f2cd4d2f9b7ee1ce2f8c"
+            },
+            {
+                "title":"Berserk",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/79352.jpg?s=bd668bd7511c8aa906e65697b7cfe151"
+            },
+            {
+                "title":"Fate/Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73249.jpg?s=0ddd3d84549e11eda144df33626f97ae"
+            },
+            {
+                "title":"Haibane Renmei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/13134.jpg?s=7374607a6b33488ad66b2924fe97e19a"
+            },
+            {
+                "title":"Houseki no Kuni",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/52443.jpg?s=8e41d1d9ef002c66f0a8b74978f0b1c0"
+            },
+            {
+                "title":"Mononoke",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=3938ebc2f550dbab2563df778857ee86"
+            },
+            {
+                "title":"Shinsekai yori",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/36775.jpg?s=b8a7460469b03abd4a99313331e7cf61"
+            }
+        ]
+    },
+    {
+        "type":"Isekai",
+        "animes":[
+            {
+                "title":"Escaflowne",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/50419.jpg?s=cbf2bed23c95dd1a870be2078f5ae354"
+            },
+            {
+                "title":"The Familiar of Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/75559.jpg"
+            },
+            {
+                "title":"Grimgar of Fantasy and Ash",
+                "img_url":"https://cdn.myanimelist.net/images/manga/2/169852.jpg"
+            },
+            {
+                "title":"Kono Subarashii Sekai ni Shukufuku wo!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/77831.jpg?s=ae299e926b2d7a713c7daa9ab56876a4"
+            },
+            {
+                "title":"Log Horizon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/84004.jpg?s=73d4b44ed253ca5c865ef6e026cec99f"
+            },
+            {
+                "title":"Magic Knight Rayearth",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1683/97042.jpg?s=bb1693640d326eb04948818a66e60c5f"
+            },
+            {
+                "title":"Overlord",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/88019.jpg?s=79b1142c4818577b9925017b0240131a"
+            },
+            {
+                "title":"Re:Zero kara Hajimeru Isekai Seikatsu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/79410.jpg?s=e5af69cc807827d960064a26818c9a38"
+            },
+            {
+                "title":"Restaurant to Another World",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/86666.jpg"
+            },
+            {
+                "title":"Spirited Away",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/79597.jpg"
+            },
+            {
+                "title":"Sword Art Online",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/39717.jpg?s=5908e8051487fb8468d5fca779f8f00d"
+            },
+            {
+                "title":"That Time I was Reincarnated as a Slime",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1694/93337.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Romance / Drama",
+        "animes":[
+            {
+                "title":"Clannad",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1804/95033.jpg?s=9859f25603227060cb83ae886ea1b65d"
+            },
+            {
+                "title":"ef - a tale of memories.",
+                "img_url":""
+            },
+            {
+                "title":"Golden Time",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=99c4234ca513f168c965d872c62f7fae"
+            },
+            {
+                "title":"Hanbun no Tsuki ga Noboru Sora",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75201.jpg?s=589b74db8afc014fb03323022a5ec1a4"
+            },
+            {
+                "title":"Kimi no na wa/Your Name",
+                "img_url":""
+            },
+            {
+                "title":"Koe no Katachi/A Silent Voice",
+                "img_url":""
+            },
+            {
+                "title":"Koi Kaze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/61441.jpg?s=4be5843a95373c5ad03c942f77ce47ac"
+            },
+            {
+                "title":"Kokoro Connect",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/39665.jpg?s=4567681ec7406a3d240b64c79b46610b"
+            },
+            {
+                "title":"Kuzu no Honkai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/83937.jpg?s=027a32d2e68363c1ec746a0308f5617f"
+            },
+            {
+                "title":"Nana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/11232.jpg?s=fdcbc61fd7e6407fe3810192a1684acd"
+            },
+            {
+                "title":"Nodame Cantabile",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=026366b29c73b058d45e0c357408c23b"
+            },
+            {
+                "title":"Planetes",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=d46f1c78402853e6f1003b36e6de0b64"
+            },
+            {
+                "title":"Sakurasou no Pet na Kanojo",
+                "img_url":"https://cdn.myanimelist.net/images/manga/2/159577.jpg"
+            },
+            {
+                "title":"Shigatsu wa Kimi no Uso",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/67177.jpg?s=bc267f764bffe825e1e8d60f7185a2e9"
+            },
+            {
+                "title":"Spice and Wolf",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/59399.jpg"
+            },
+            {
+                "title":"True Tears",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/18578.jpg?s=a8c1b1add79da91b24b63505ea34aa78"
+            }
+        ]
+    },
+    {
+        "type":"Romatic Comedy",
+        "animes":[
+            {
+                "title":"Ah! My Goddess!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/17841.jpg"
+            },
+            {
+                "title":"Bokura wa Minna Kawaisou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/64629.jpg"
+            },
+            {
+                "title":"Chuunibyou demo Koi ga Shitai!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/46931.jpg?s=62b74b7411767d22ae904e25a0b0952e"
+            },
+            {
+                "title":"Fruits Basket",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75204.jpg?s=980d29f55c40ce6c7a7ed6b64ab13e99"
+            },
+            {
+                "title":"Gekkan Shoujo Nozaki-kun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/66083.jpg?s=59ab3e9362a2bbed54ae5420b27032bb"
+            },
+            {
+                "title":"High Score Girl",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1668/91345.jpg?s=e646fb5e76776ccd9b30917209dcfc0f"
+            },
+            {
+                "title":"Honey and Clover",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/73923.jpg"
+            },
+            {
+                "title":"Love Hina",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1725/94697.jpg?s=5f1dd345732534a964c6844ced4a8f68"
+            },
+            {
+                "title":"Lovely★Complex",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75563.jpg?s=b1fa8caafd5a46b6f1d147d5d5fc7e33"
+            },
+            {
+                "title":"Nodame Cantabile",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=026366b29c73b058d45e0c357408c23b"
+            },
+            {
+                "title":"Sakurasou no Pet na Kanojo",
+                "img_url":"https://cdn.myanimelist.net/images/manga/2/159577.jpg"
+            },
+            {
+                "title":"School Rumble",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75488.jpg?s=db91af71994aa699883b43d35965e34a"
+            },
+            {
+                "title":"Toradora!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/22128.jpg?s=08c2b1b4a465fc43cbe15aae4a425b78"
+            },
+            {
+                "title":"Tsurezure Children",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/86676.jpg?s=3822719a1ce214e3f286eecb3e04a3c8"
+            },
+            {
+                "title":"The World God Only Knows",
+                "img_url":"The World God Only Knows"
+            },
+            {
+                "title":"Yamada-kun to 7-nin no Majo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/58865.jpg?s=cddfd6008410d241fc35860303a92a6b"
+            }
+        ]
+    },
+    {
+        "type":"Harem",
+        "animes":[
+            {
+                "title":"Bakemonogatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75274.jpg?s=3bb5c42c0803621dde09c52f5c4d4249"
+            },
+            {
+                "title":"Clannad",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1804/95033.jpg?s=9859f25603227060cb83ae886ea1b65d"
+            },
+            {
+                "title":"Date A Live",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/44844.jpg?s=c1da4993c7a0a09b0e104ecbd8065deb"
+            },
+            {
+                "title":"GJ-bu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/45995.jpg?s=79756801274240d2a96e6631e36222ab"
+            },
+            {
+                "title":"High School DxD",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1331/111940.jpg?s=ff42c65c550aa02f8f55ffb22c6a00ce"
+            },
+            {
+                "title":"Infinite Stratos",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/74045.jpg"
+            },
+            {
+                "title":"Kore wa Zombie Desu ka?",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75521.jpg?s=dc8539c356bf7993c3bd1d0f84241965"
+            },
+            {
+                "title":"MM!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/85871.jpg?s=67985d9db89d447d8b6a72ef4ee2975a"
+            },
+            {
+                "title":"Nisekoi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75587.jpg?s=62eb23b86cf20c3b322424c96703b742"
+            },
+            {
+                "title":"Ouran High School Host Club",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/71992.jpg"
+            },
+            {
+                "title":"The Quintessential Quintuplets",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1819/97947.jpg"
+            },
+            {
+                "title":"Saenai Heroine no Sodatekata",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/68783.jpg?s=c2212b0b581ee1a99e7a1905fcb7f649"
+            },
+            {
+                "title":"Saiunkoku Monogatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/957.jpg?s=1060f627bdd7a8607e39ed2df0d1513d"
+            },
+            {
+                "title":"Seitokai no Ichizon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/19646.jpg?s=4cf5765616a5fb841f67337126a9f8da"
+            },
+            {
+                "title":"Sekirei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/15182.jpg?s=12937915adf0555b82ca1c5baf5d768b"
+            },
+            {
+                "title":"Shuffle!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/19622.jpg?s=70ecb8f2b781f127fbfd03fbd5d0539a"
+            },
+            {
+                "title":"Sora no Otoshimono",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/50307.jpg?s=b488dfd79bc7f2da7501cdfa8cd8d319"
+            },
+            {
+                "title":"The World God Only Knows",
+                "img_url":"The World God Only Knows"
+            },
+            {
+                "title":"Uta no Prince-sama",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/44019.jpg"
+            },
+            {
+                "title":"Yona of the Dawn",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/64225.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Established Couple",
+        "animes":[
+            {
+                "title":"Akagami no Shirayuki-hime",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75764.jpg?s=915348b673918c0e63fcf84678b9e5d5"
+            },
+            {
+                "title":"Ano Natsu de Matteru",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/59405.jpg?s=28d5442f67f9a58e7b130b97e104b46f"
+            },
+            {
+                "title":"Danna ga Nani wo Itteiru ka Wakaranai Ken",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/75287.jpg?s=1b156f4a4d1c53394164c01ab94ee35f"
+            },
+            {
+                "title":"Kuzu no Honkai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/83937.jpg?s=027a32d2e68363c1ec746a0308f5617f"
+            },
+            {
+                "title":"Honobono Log",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/80749.jpg?s=326cea6b932e690677e1e4a1ab428bbf"
+            },
+            {
+                "title":"Itazura na Kiss",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/19933.jpg?s=0f25a6b47ce32b6e0b122d2688a34dd6"
+            },
+            {
+                "title":"Nazo no Kanojo X",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/75205.jpg?s=f13b36ea598c510bdd89775d3791aa37"
+            },
+            {
+                "title":"Paradise Kiss",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/80636.jpg?s=95b55301ab414c153bc867c39a6fa925"
+            },
+            {
+                "title":"Seto no Hanayome",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/58383.jpg?s=443c64d627751784a5fbe7a65c0cc9c6"
+            },
+            {
+                "title":"Tsuki ga Kirei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/85592.jpg?s=2779f485c4943624755d02baad87cf51"
+            }
+        ]
+    },
+    {
+        "type":"Yaoi",
+        "animes":[
+            {
+                "title":"Banana Fish",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1190/93472.jpg?s=a44d13e8e51c4c0e8f80f019e142614c"
+            },
+            {
+                "title":"Doukyuusei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/78606.jpg"
+            },
+            {
+                "title":"Given",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1666/102238.jpg?s=83f09aa12b3e071b0761c6aedea010a6"
+            },
+            {
+                "title":"Gravitation",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/21856.jpg?s=dbfb50db8c8b9bd3c7180262c7c535e8"
+            },
+            {
+                "title":"Kono Danshi, Ningyo Hiroimashita",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/43465.jpg"
+            },
+            {
+                "title":"Love Stage!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/76599.jpg"
+            },
+            {
+                "title":"Loveless",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/22947.jpg?s=99987183430da9c125d0173a26a1a4c4"
+            },
+            {
+                "title":"No.6",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1474/90768.jpg?s=255da4d2ae0b14b076698202c8ba16e5"
+            },
+            {
+                "title":"Yuri on Ice",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/81149.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Yuri",
+        "animes":[
+            {
+                "title":"Asagao to Kase-san.",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1578/94205.jpg?s=bbb858c723c2ba20f6948a63978a5cb3"
+            },
+            {
+                "title":"Aoi Hana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/80255.jpg?s=489ec7f96e1ccfe1b8d95fb5c7a5b0ee"
+            },
+            {
+                "title":"Bloom Into You",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1783/96153.jpg"
+            },
+            {
+                "title":"Candy☆Boy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/35473.jpg"
+            },
+            {
+                "title":"Cross Ange",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/67515.jpg"
+            },
+            {
+                "title":"Happy Sugar Life",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1386/103920.jpg?s=301e177e6428bc16c1515b8d21068161"
+            },
+            {
+                "title":"Kuttsukiboshi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/25761.jpg?s=be86c2e5055141d9964988af31be7161"
+            },
+            {
+                "title":"Mai-Hime",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/7226.jpg"
+            },
+            {
+                "title":"Maria-sama ga Miteru",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/75207.jpg?s=fadfd86170eb9b5edfc4142374ee8654"
+            },
+            {
+                "title":"Sakura Trick",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/56189.jpg?s=9df595b555e233158fb39c0898db7e01"
+            },
+            {
+                "title":"Sasameki Koto",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/75225.jpg?s=6747d989e153e90cf8e36004492765b3"
+            },
+            {
+                "title":"Shoujo Kakumei Utena",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=0c863ebe72921213b3679c2ce4ec3778"
+            },
+            {
+                "title":"Simoun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/29109.jpg?s=c482cd8743d7949fd426c70ab5116f54"
+            },
+            {
+                "title":"Strawberry Panic",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/14070.jpg?s=25ace61443086b719d0c50c2112a6863"
+            },
+            {
+                "title":"Yuri Kuma Arashi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/69203.jpg?s=83203b6a5108fa8b34bcfe5c873decfb"
+            }
+        ]
+    },
+    {
+        "type":"Action / Romance",
+        "animes":[
+            {
+                "title":"Akatsuki no Yona",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/64225.jpg?s=737ae431d2d534df34adc4da74b55d32"
+            },
+            {
+                "title":"Eureka Seven",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/34443.jpg"
+            },
+            {
+                "title":"Guilty Crown",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/33713.jpg?s=9dd379440569c978f0fddcf0e764c134"
+            },
+            {
+                "title":"Katanagatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/50023.jpg?s=dbe6e0fbe6c8a09748547eb87e6df5f4"
+            },
+            {
+                "title":"Kemonozume",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=35038f06153edcb052405828ac627b79"
+            },
+            {
+                "title":"Kyoukai no Kanata",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/85468.jpg?s=4f7cc2a1b3cae7557e6ba71097a0a2ae"
+            },
+            {
+                "title":"Macross Frontier",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/15648.jpg"
+            },
+            {
+                "title":"Rose of Versailles",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/57043.jpg"
+            },
+            {
+                "title":"Rurouni Kenshin",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/6803.jpg"
+            },
+            {
+                "title":"Shakugan no Shana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/21197.jpg?s=17405ca800c1c6fe7a9da573c74f6a79"
+            },
+            {
+                "title":"Sword Art Online",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/39717.jpg?s=5908e8051487fb8468d5fca779f8f00d"
+            },
+            {
+                "title":"Tokyo Ravens",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75094.jpg?s=df68546dafe5c297183d9c7b52d104f8"
+            },
+            {
+                "title":"Zetsuen no Tempest",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=f4722250dda9e87791ced4daec787781"
+            }
+        ]
+    },
+    {
+        "type":"Science-Fiction",
+        "animes":[
+            {
+                "title":"Cowboy Bebop",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=bb1e96eb0a0224a57aa45443eab92575"
+            },
+            {
+                "title":"Heroic Age",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/50435.jpg?s=13758239db90a00f7f8af6080cd76c2d"
+            },
+            {
+                "title":"Kaiba",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906e5574c1aebd02d48d3fe30073a70"
+            },
+            {
+                "title":"Serial Experiments Lain",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1718/91550.jpg?s=a7345c87c4b2e5632a0562f3204d52bb"
+            },
+            {
+                "title":"Steins;Gate",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=97b97d568f25a02cf5a22dda13b5371f"
+            }
+        ]
+    },
+    {
+        "type":"Apocalyptic Sci-Fi",
+        "animes":[
+            {
+                "title":"Akira",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=a40642bc05257132b07970b475342353"
+            },
+            {
+                "title":"Dr. Stone",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1613/102576.jpg?s=44aa2af9cfc2523f9feb07d2b13d4196"
+            },
+            {
+                "title":"Ergo Proxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/6259.jpg?s=4fd55e1e59f0bb02ea88a28ed88834c1"
+            },
+            {
+                "title":"Girls’ Last Tour",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/88321.jpg"
+            },
+            {
+                "title":"Nausicaä of the Valley of the Wind",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75914.jpg"
+            },
+            {
+                "title":"Shinsekai Yori",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/36775.jpg"
+            },
+            {
+                "title":"Sora no Woto",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/81654.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Speculative Sci-Fi",
+        "animes":[
+            {
+                "title":"Astra Lost in Space",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1784/106428.jpg"
+            },
+            {
+                "title":"Eve no Jikan",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/19480.jpg?s=afbce09f6aae28654b17bfc90e03254f"
+            },
+            {
+                "title":"Ghost in the Shell",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50857.jpg"
+            },
+            {
+                "title":"Planetes",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=d46f1c78402853e6f1003b36e6de0b64"
+            },
+            {
+                "title":"Psycho-Pass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/43399.jpg?s=a5f419aedb5908dfd0a419e6abfb588b"
+            },
+            {
+                "title":"Space Brothers",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/37573.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Space Opera",
+        "animes":[
+            {
+                "title":"Crest of the Stars",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1493/94479.jpg"
+            },
+            {
+                "title":"Galaxy Express 999",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/50505.jpg"
+            },
+            {
+                "title":"Legend of the Galactic Heroes",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/13225.jpg"
+            },
+            {
+                "title":"Macross",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/2441.jpg"
+            },
+            {
+                "title":"Mobile Suit Gundam 0079",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/13200.jpg"
+            },
+            {
+                "title":"Space Battleship Yamato",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/36607.jpg"
+            },
+            {
+                "title":"Space Pirate Captain Harlock",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/62619.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Mecha",
+        "animes":[
+            {
+                "title":"Aldnoah Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/71297.jpg"
+            },
+            {
+                "title":"Bokurano",
+                "img_url":"https://cdn.myanimelist.net/images/manga/1/57107.jpg"
+            },
+            {
+                "title":"Code Geass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+            },
+            {
+                "title":"Cross Ange",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/67515.jpg"
+            },
+            {
+                "title":"Darling in the FranXX",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1614/90408.jpg?s=b06206668b10bcea85aa9cc75b5673f3"
+            },
+            {
+                "title":"Escaflowne",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/50419.jpg?s=cbf2bed23c95dd1a870be2078f5ae354"
+            },
+            {
+                "title":"Eureka Seven",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/34443.jpg"
+            },
+            {
+                "title":"Full Metal Panic",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/75259.jpg"
+            },
+            {
+                "title":"Gunbuster",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1303/92309.jpg"
+            },
+            {
+                "title":"Knights of Sidonia",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/53257.jpg"
+            },
+            {
+                "title":"Macross Frontier",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/15648.jpg"
+            },
+            {
+                "title":"Majestic Prince",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/44594.jpg"
+            },
+            {
+                "title":"Martian Successor Nadesico",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/53955.jpg"
+            },
+            {
+                "title":"Mobile Suit Gundam 0079",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/13200.jpg"
+            },
+            {
+                "title":"Neon Genesis Evangelion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=8055a0c1ad69357576fc40b690b63b03"
+            },
+            {
+                "title":"Patlabor",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/74786.jpg"
+            },
+            {
+                "title":"Shin Mazinger Z",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/21724.jpg"
+            },
+            {
+                "title":"Soukyuu no Fafner",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/50365.jpg"
+            },
+            {
+                "title":"Tenchi Muyo! War on Geminar",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/20345.jpg"
+            },
+            {
+                "title":"Tengen Toppa Gurren Lagann",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=15bb64e0c8b13acfa5d0761308b66f59"
+            },
+            {
+                "title":"Valvrave",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/49251.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Slice of Life",
+        "animes":[
+            {
+                "title":"Aiura",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/60699.jpg?s=c6d0272a2572aeef8576468a53a1776f"
+            },
+            {
+                "title":"Amaama to Inazuma",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/80546.jpg?s=888e67345a13039c80efe103bb9690cf"
+            },
+            {
+                "title":"Bokura wa Minna Kawaisou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/64629.jpg"
+            },
+            {
+                "title":"Fune wo Amu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/81624.jpg?s=d99374eeb7df94ac34a67812fb97c9ae"
+            },
+            {
+                "title":"Genshiken",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1890/94707.jpg?s=9364d222f06d7879d6d2312b91d316d3"
+            },
+            {
+                "title":"Gin no Saji",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/49237.jpg?s=cbac73007c6ff9a2af5178b7df462bb3"
+            },
+            {
+                "title":"GJ-bu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/45995.jpg?s=79756801274240d2a96e6631e36222ab"
+            },
+            {
+                "title":"Great Teacher Onizuka",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/11460.jpg?s=7e890b7e93b7b57c2de4aa90211931bd"
+            },
+            {
+                "title":"Hanasaku Iroha",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/28967.jpg?s=ba0907ba48aa91a3b4742c69b7e090df"
+            },
+            {
+                "title":"Honobono Log",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/80749.jpg?s=326cea6b932e690677e1e4a1ab428bbf"
+            },
+            {
+                "title":"Hyouka",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/50521.jpg?s=2b2e746fe9435f3a6eced51fef806b70"
+            },
+            {
+                "title":"Ichigo Mashimaro",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/11042.jpg?s=5aba4b7758cd1d1702607c104f025562"
+            },
+            {
+                "title":"Isshuukan Friends",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/61891.jpg"
+            },
+            {
+                "title":"Kono Bijutsubu ni wa Mondai ga Aru!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/80688.jpg?s=ec0a047b942f1dc0c69e95dccfbd41d4"
+            },
+            {
+                "title":"Kuma Miko",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/78863.jpg?s=72b5a18e5da0eeeee41f53bba5b2de7c"
+            },
+            {
+                "title":"Mangaka-san to Assistant-san",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/62219.jpg"
+            },
+            {
+                "title":"Mikakunin de Shinkoukei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75249.jpg?s=9fe6a1dd8b225eeae5f10ca8d32b6a00"
+            },
+            {
+                "title":"Nichijou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/75617.jpg?s=a6141f357026aca2496b1a9debaf9d2b"
+            },
+            {
+                "title":"Shirobako",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1918/93511.jpg?s=b802f6b471585b9dd962ca67956a8997"
+            },
+            {
+                "title":"Tanaka-kun wa Itsumo Kedaruge",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1189/111994.jpg?s=eae5c331957daf8b11e220209f99ae04"
+            },
+            {
+                "title":"Udon no Kuni no Kiniro Kemari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/82343.jpg?s=d900ac02545ad5059d91a5285257e6ed"
+            },
+            {
+                "title":"Working!!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75262.jpg?s=6077f0616e8fab853db4a3039b86c457"
+            },
+            {
+                "title":"Yama no Susume",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/75525.jpg?s=b2d87d7de4ee0467edd603810d0c1f09"
+            }
+        ]
+    },
+    {
+        "type":"Cute Girls",
+        "animes":[
+            {
+                "title":"Azumanga Daioh",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/66.jpg?s=3ab1985c4a76949c97adbd847ef0c209"
+            },
+            {
+                "title":"Comic Girls",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1207/91794.jpg?s=05652493290f3cdd6e8769f98b0dec25"
+            },
+            {
+                "title":"Hidamari Sketch",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/1852.jpg?s=34e97fd5b8b1b27af066d5ade06e883d"
+            },
+            {
+                "title":"K-On!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/76120.jpg?s=77fa4793e80f2be71f6996736e81636b"
+            },
+            {
+                "title":"Kiniro Mosaic",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/51379.jpg?s=f37f8180bfb19240dfa8a0307fdb1190"
+            },
+            {
+                "title":"Lucky☆Star",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/15010.jpg?s=c846cddfa05136482e4da84cd6b6f1ef"
+            },
+            {
+                "title":"Sansha Sanyou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/79415.jpg?s=dd3020793bf8dbe2d3094cb153464e54"
+            },
+            {
+                "title":"Urara Meirochou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/84119.jpg?s=ce6673b8453d9e28e635aff9c73ae9e5"
+            },
+            {
+                "title":"Yuru Yuri",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/75173.jpg?s=45933ee5442177e74c3fbc848b127752"
+            }
+        ]
+    },
+    {
+        "type":"Sport - Action",
+        "animes":[
+            {
+                "title":"Eyeshield 21",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/66961.jpg?s=d27ee86df94222e6c4cbd739e80eef1e"
+            },
+            {
+                "title":"Girls und Panzer",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/40969.jpg"
+            },
+            {
+                "title":"Haikyuu!!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/76014.jpg?s=ef5c00cb929dcd690c87f56e6d1b0c8a"
+            },
+            {
+                "title":"Hajime no Ippo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/86334.jpg?s=4b3096d30158e251d87c196e56c04e63"
+            },
+            {
+                "title":"Initial D",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/6801.jpg"
+            },
+            {
+                "title":"Keijo!!!!!!!!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/81906.jpg?s=fbb795c721de39f452a7c053b203a685"
+            },
+            {
+                "title":"Kuroko no Basket",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50453.jpg?s=419e78c3a3ba46a986f13baf27ab3f3e"
+            },
+            {
+                "title":"Megalo Box",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1958/93533.jpg"
+            },
+            {
+                "title":"Shakunetsu no Takkyuu Musume",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/80746.jpg?s=589c1d28853c4dc81a982d4c2ddc8bd2"
+            },
+            {
+                "title":"Slam Dunk",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/86890.jpg?s=bfc7954502569ff5c4d3533dcde8230f"
+            }
+        ]
+    },
+    {
+        "type":"Sport - Drama",
+        "animes":[
+            {
+                "title":"Baby Steps",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/63361.jpg?s=96eda98ed145f8e11ea20f7fc54c9641"
+            },
+            {
+                "title":"Chihayafuru",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/35749.jpg?s=ea76b0b1cc0e075aafc4b63fe320c6cb"
+            },
+            {
+                "title":"Cross Game",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/22103.jpg?s=e10cc8df9c87122f488fa4a3dfeaf9fb"
+            },
+            {
+                "title":"Diamond no Ace",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/54235.jpg?s=6274728d6d1b274365c964ff74619d21"
+            },
+            {
+                "title":"Free!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/51107.jpg?s=277f33627dad8f3f349c2ac234138ca6"
+            },
+            {
+                "title":"Hikaru no",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/78317.jpg"
+            },
+            {
+                "title":"Hoshiai no Sora",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1807/103081.jpg?s=146dafc712b9d57cfce69579786bd1d0"
+            },
+            {
+                "title":"Ping Pong the Animation",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=fbfd98389b5a6f1a27979446e3f07abe"
+            },
+            {
+                "title":"One Outs",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/21065.jpg?s=f072084cc11c8f6d110959a0b894d57c"
+            },
+            {
+                "title":"Run with the Wind",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1692/93918.jpg"
+            },
+            {
+                "title":"Tomorrow’s Joe",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/64671.jpg"
+            },
+            {
+                "title":"Tsurune",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1360/93571.jpg"
+            },
+            {
+                "title":"Yuri on Ice",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/81149.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Sport - Slice of Life",
+        "animes":[
+            {
+                "title":"Anima Yell!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1051/93862.jpg?s=a6b710170cef0eccad2bdc77fd07499e"
+            },
+            {
+                "title":"Girls und Panzer",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/40969.jpg"
+            },
+            {
+                "title":"Harukana Receive",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1924/95212.jpg?s=ad83d8f9e28386e6c45f965877f84c21"
+            },
+            {
+                "title":"How Heavy are the Dumbbells You Lift?",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1385/101060.jpg"
+            },
+            {
+                "title":"Saki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73933.jpg?s=af84720d37c456acc73056b9e288826d"
+            }
+        ]
+    },
+    {
+        "type":"Thriller",
+        "animes":[
+            {
+                "title":"Boku dake ga Inai Machi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/77957.jpg?s=27f147795f08191cf1a96a2b50e1756c"
+            },
+            {
+                "title":"Death Note",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=b89e80691ac5cc0610847ccbe0b8424a"
+            },
+            {
+                "title":"Happy Sugar Life",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1386/103920.jpg?s=301e177e6428bc16c1515b8d21068161"
+            },
+            {
+                "title":"Kaiji",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/80032.jpg"
+            },
+            {
+                "title":"Kara no Kyoukai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/21737.jpg"
+            },
+            {
+                "title":"Mirai Nikki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/33465.jpg?s=47381246925211d3873b932cba7b2703"
+            },
+            {
+                "title":"Monster",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/18793.jpg?s=08c4f10a101c3835eeb14ca0715512bd"
+            },
+            {
+                "title":"Neon Genesis Evangelion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=8055a0c1ad69357576fc40b690b63b03"
+            },
+            {
+                "title":"Paprika",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1929/93629.jpg?s=4327cca124fa632214290ceff6c2b997"
+            },
+            {
+                "title":"Perfect Blue",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/79127.jpg?s=9b05b16f15f6d4d6ead6a275493a0c41"
+            },
+            {
+                "title":"The Promised Neverland",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1125/96929.jpg"
+            },
+            {
+                "title":"Rainbow Nisha Rokubou no Shichinin",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/72697.jpg"
+            },
+            {
+                "title":"Re:Zero kara Hajimeru Isekai Seikatsu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/79410.jpg?s=e5af69cc807827d960064a26818c9a38"
+            },
+            {
+                "title":"Shinsekai Yori",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/36775.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Horror",
+        "animes":[
+            {
+                "title":"Another",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75509.jpg?s=bedc6b5df639a126aa125bb4d2ef5424"
+            },
+            {
+                "title":"Blue Gender",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1/2023.jpg?s=22102b370828e964e7e9f5d85383d433"
+            },
+            {
+                "title":"Corpse Party Tortured Souls",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/78811.jpg"
+            },
+            {
+                "title":"Ghost Hound",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/22691.jpg"
+            },
+            {
+                "title":"Higurashi no Naku Koro ni",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/19634.jpg?s=1eab50fce5492ec08731702e32e6bac6"
+            },
+            {
+                "title":"Mononoke",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=3938ebc2f550dbab2563df778857ee86"
+            },
+            {
+                "title":"Paranoia Agent",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/10240.jpg"
+            },
+            {
+                "title":"Requiem from the Darkness",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/30681.jpg"
+            },
+            {
+                "title":"Shiki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/21343.jpg?s=a46bd1834acc06a62522a68ce603bf22"
+            },
+            {
+                "title":"Yami Shibai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/74107.jpg?s=ce5454acd718bbd96a038988cca7d011"
+            }
+        ]
+    },
+    {
+        "type":"Mystery",
+        "animes":[
+            {
+                "title":"Baccano!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=32ce1ad2936def90d8b51ddeef6a82cd"
+            },
+            {
+                "title":"Death Parade",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/71553.jpg?s=68833377dab9077cd7847c91eec46f08"
+            },
+            {
+                "title":"Durarara",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/71772.jpg"
+            },
+            {
+                "title":"ef: A Tale of Memories",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50411.jpg"
+            },
+            {
+                "title":"Gankutsuou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/2235.jpg"
+            },
+            {
+                "title":"Gosick",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/27906.jpg?s=3c526813037a0e2cfc51b726ada7d735"
+            },
+            {
+                "title":"Houseki no Kuni",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/52443.jpg?s=8e41d1d9ef002c66f0a8b74978f0b1c0"
+            },
+            {
+                "title":"Kara no Kyouaki",
+                "img_url":""
+            },
+            {
+                "title":"Monogatari Series: Second Season",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/52133.jpg"
+            },
+            {
+                "title":"Rokka no Yusha",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/74374.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Niches",
+        "animes":[
+            {
+                "title":"Bakuman.",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/26138.jpg"
+            },
+            {
+                "title":"Comic Girls",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1207/91794.jpg?s=05652493290f3cdd6e8769f98b0dec25"
+            },
+            {
+                "title":"Gi(a)rlish Number",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/82291.jpg?s=a97de3943655535e5151f0375f19b43a"
+            },
+            {
+                "title":"Koe de Oshigoto!",
+                "img_url":""
+            },
+            {
+                "title":"Sore ga Seiyuu",
+                "img_url":""
+            },
+            {
+                "title":"Shirobako",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1918/93511.jpg?s=b802f6b471585b9dd962ca67956a8997"
+            }
+        ]
+    },
+    {
+        "type":"Arthouse",
+        "animes":[
+            {
+                "title":"Angel&#39;s Egg",
+                "img_url":""
+            },
+            {
+                "title":"Belladonna of Sadness",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/24740.jpg"
+            },
+            {
+                "title":"FLCL",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=4c740722edcf938c372197fc31aaa060"
+            },
+            {
+                "title":"Haibane Renmei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/13134.jpg?s=7374607a6b33488ad66b2924fe97e19a"
+            },
+            {
+                "title":"Kyousougiga",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/85431.jpg"
+            },
+            {
+                "title":"Mononoke",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=3938ebc2f550dbab2563df778857ee86"
+            },
+            {
+                "title":"Shoujo Kakumei Utena",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=0c863ebe72921213b3679c2ce4ec3778"
+            },
+            {
+                "title":"Texhnolyze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/18165.jpg?s=9607a943834cee360a42b36a628848d6"
+            },
+            {
+                "title":"The Tatami Galaxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/50457.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Battle Royale",
+        "animes":[
+            {
+                "title":"Btooom!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/40977.jpg?s=7c079c4d9dc473c00a08bf6d83fe2578"
+            },
+            {
+                "title":"Fate/Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73249.jpg?s=0ddd3d84549e11eda144df33626f97ae"
+            },
+            {
+                "title":"Granbelm",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1035/101330.jpg?s=d17d05bc3eb0f71981d3b9a68245a1a0"
+            },
+            {
+                "title":"Juuni Taisen",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/87684.jpg?s=cf70a45d067d055ee628f6a19088c0dc"
+            },
+            {
+                "title":"Mirai Nikki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/33465.jpg?s=47381246925211d3873b932cba7b2703"
+            },
+            {
+                "title":"Magical Girl Raising Project",
+                "img_url":""
+            },
+            {
+                "title":"Sword Art Online Alternative: Gun Gale Online",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1141/93288.jpg?s=8faa0281ed8af1cf1d15ccadedfb3880"
+            }
+        ]
+    },
+    {
+        "type":"Food and Drink",
+        "animes":[
+            {
+                "title":"Amaama to Inazuma",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/80546.jpg?s=888e67345a13039c80efe103bb9690cf"
+            },
+            {
+                "title":"Bartender",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/67397.jpg?s=1bec7ca6f389777c462ddee0685eb54c"
+            },
+            {
+                "title":"Ben-To",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73984.jpg?s=fae35d639922f1987b76ef8962779c10"
+            },
+            {
+                "title":"Dagashi Kashi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1538/95686.jpg?s=a59e0532b32e867b61885f0e032c2344"
+            },
+            {
+                "title":"Isekai Shokudou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/86666.jpg?s=b16c851e10ca91d18e1704f38f19382d"
+            },
+            {
+                "title":"Koufuku Graffiti",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/71963.jpg?s=025efe73895e6ed7ded5b4730165d590"
+            },
+            {
+                "title":"Mister Ajikko",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/76433.jpg?s=4af3a3fa04f3b4ee8e751727277c5352"
+            },
+            {
+                "title":"Osake wa Fuufu ni Natte kara",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1684/108627.jpg?s=c91e3cfdc41d3cc67b5da71e5f938f21"
+            },
+            {
+                "title":"Ristorante Paradiso",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/17488.jpg?s=d61cc80333bd8138d0b4089286ace5e4"
+            },
+            {
+                "title":"Shokugeki no Souma",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/72943.jpg?s=a93f0e87eb1a78ff9dd281cfbb236bbf"
+            },
+            {
+                "title":"Shikioriori",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1529/93093.jpg?s=8bb69cbf4b89b9b6ab0275e6d29c3322"
+            },
+            {
+                "title":"Toriko",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1757/100671.jpg?s=84497d9b2fd4e955637877a8fa114223"
+            },
+            {
+                "title":"Wakako-zake",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/76018.jpg?s=f980e5007f04ccf12b47f9397d07b7e2"
+            },
+            {
+                "title":"Yakitate!! Japan",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/76432.jpg?s=b386933474776a795405439f742b0d11"
+            }
+        ]
+    },
+    {
+        "type":"Gender Bender",
+        "animes":[
+            {
+                "title":"Kampfer",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/35423.jpg"
+            },
+            {
+                "title":"Ore, Twintails ni Narimasu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75057.jpg"
+            },
+            {
+                "title":"Mahou Shoujo Ore",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1439/91893.jpg?s=f2bbb1fe9fda294f2aa85bebca4500df"
+            },
+            {
+                "title":"Simoun",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/29109.jpg?s=c482cd8743d7949fd426c70ab5116f54"
+            },
+            {
+                "title":"That Time I Was Reincarnated as a Slime",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1694/93337.jpg"
+            },
+            {
+                "title":"Youjo Senki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/82890.jpg?s=b8b3b76d7d72c1730859e6e0f7a88dd7"
+            }
+        ]
+    },
+    {
+        "type":"Idol Hell",
+        "animes":[
+            {
+                "title":"Aikatsu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/74783.jpg"
+            },
+            {
+                "title":"Ensemble Stars",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1504/100488.jpg"
+            },
+            {
+                "title":"idolish 7",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1390/90828.jpg"
+            },
+            {
+                "title":"The iDOLM@STER",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/41085.jpg?s=301be74bad5224c0013453d7eb273ff6"
+            },
+            {
+                "title":"Love Live! School Idol Project",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/56849.jpg?s=125be45b8c0140f6d752891a69b4f517"
+            },
+            {
+                "title":"Love Live! Sunshine",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/80791.jpg"
+            },
+            {
+                "title":"Show by Rock!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/73674.jpg"
+            },
+            {
+                "title":"Starmyu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75765.jpg?s=35dcb3c4a630af40c03e6234f1dbae1d"
+            },
+            {
+                "title":"Wake Up, Girls!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/58971.jpg?s=842f085f3268840f68f967a83de14f92"
+            }
+        ]
+    },
+    {
+        "type":"Music",
+        "animes":[
+            {
+                "title":"Aki no Kanade",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/72481.jpg?s=5c8d9c8ed3ab814dbb088f82b9fac679"
+            },
+            {
+                "title":"Bang Dream!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/82414.jpg"
+            },
+            {
+                "title":"Beck",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/11636.jpg?s=5d50bc996ff42f7c3a3cc3a7aa04ddaa"
+            },
+            {
+                "title":"Detroit Metal City",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/9853.jpg?s=01409a7f61f078eb0661eced9e766389"
+            },
+            {
+                "title":"Hibike! Euphonium",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/72445.jpg?s=ff3f10115c196f36a3ea4bfb293687fe"
+            },
+            {
+                "title":"K-On!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/76120.jpg?s=77fa4793e80f2be71f6996736e81636b"
+            },
+            {
+                "title":"Macross Frontier",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/15648.jpg"
+            },
+            {
+                "title":"Nana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/11232.jpg?s=fdcbc61fd7e6407fe3810192a1684acd"
+            },
+            {
+                "title":"Nodame Cantabile",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=026366b29c73b058d45e0c357408c23b"
+            },
+            {
+                "title":"Sakamichi no Apollon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/79781.jpg?s=587c52b26b0d6898d57a9408bea2a84d"
+            },
+            {
+                "title":"Shigatsu wa Kimi no Uso",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/67177.jpg?s=bc267f764bffe825e1e8d60f7185a2e9"
+            },
+            {
+                "title":"Shoujo☆Kageki Revue Starlight",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1165/93552.jpg?s=e4c23570ea1df3a5f5cd26290d75b540"
+            },
+            {
+                "title":"Sora no Woto",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/81654.jpg"
+            },
+            {
+                "title":"Symphogear",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75580.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Parenthood",
+        "animes":[
+            {
+                "title":"Hinamatsuri",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/84695.jpg?s=e27c25f63be99083768987d2ec3b2ca1"
+            },
+            {
+                "title":"Maquia: When the Promised Flower Blooms",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/89556.jpg"
+            },
+            {
+                "title":"Poco’s Udon World",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/82343.jpg"
+            },
+            {
+                "title":"Sweetness and Lightning",
+                "img_url":"https://cdn.myanimelist.net/images/manga/3/188833.jpg"
+            },
+            {
+                "title":"Usagi Drop",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/29665.jpg?s=4921bb7bab905258c4f675cde9ee400b"
+            },
+            {
+                "title":"Wolf Children",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/35721.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Magical Girl",
+        "animes":[
+            {
+                "title":"Cardcaptor Sakura",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/60781.jpg?s=ceceafe46ce85611604b1b0e5d2d7dad"
+            },
+            {
+                "title":"The Demon Girl Next Door",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1633/111518.jpg"
+            },
+            {
+                "title":"Flip Flappers",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/82292.jpg?s=9cda0149bbe13d23da3e9cb63a99cdcc"
+            },
+            {
+                "title":"Futari wa Precure",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/7533.jpg?s=10ae4ab944c4f6c3e174b84edbe9c6ee"
+            },
+            {
+                "title":"Heartcatch Precure",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/25915.jpg"
+            },
+            {
+                "title":"Houkago no Pleiades",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/47741.jpg?s=c49c84b86a6f22fcc7af278b90024de1"
+            },
+            {
+                "title":"Kill la Kill",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1464/111943.jpg?s=b350450d3d98aa57f05bb4fbdb9d5209"
+            },
+            {
+                "title":"Kore wa Zombie desu ka?",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75521.jpg?s=dc8539c356bf7993c3bd1d0f84241965"
+            },
+            {
+                "title":"Mahou Shoujo Lyrical Nanoha",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/6770.jpg?s=1733830f602c2c93b22458e3cb688163"
+            },
+            {
+                "title":"Mahou Shoujo Madoka★Magica",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/55225.jpg?s=cff930c5de079dbeab2107067050e03c"
+            },
+            {
+                "title":"Milky Momo",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/29552.jpg"
+            },
+            {
+                "title":"Ojamajo Doremi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1719/103416.jpg?s=b1864dedc2ea099cf43ff6bebcd1a631"
+            },
+            {
+                "title":"Panty and Stocking",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/73643.jpg"
+            },
+            {
+                "title":"Princess Tutu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1145/93646.jpg?s=dfae25f7c84a94ddf46bb7641677b862"
+            },
+            {
+                "title":"Re: Cutie Honey",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/55427.jpg"
+            },
+            {
+                "title":"Sailor Moon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1440/92258.jpg"
+            },
+            {
+                "title":"Shoujo Kakumei Utena",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=0c863ebe72921213b3679c2ce4ec3778"
+            },
+            {
+                "title":"Yuuki Yuuna wa Yuusha de Aru",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/77057.jpg?s=4e395a26d1d16f878c12fe80888117d2"
+            }
+        ]
+    },
+    {
+        "type":"Incest",
+        "animes":[
+            {
+                "title":"Candy☆Boy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/35473.jpg"
+            },
+            {
+                "title":"Eromanga Sensei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/86468.jpg"
+            },
+            {
+                "title":"Kiss x Sis",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/22223.jpg?s=e258e7f7f45fe8d66f02e3d69a89113d"
+            },
+            {
+                "title":"Kono Naka ni Hitori, Imouto ga Iru!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/75534.jpg?s=d7170aa44b8d674a87f5e8aa57c30561"
+            },
+            {
+                "title":"Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/42111.jpg"
+            },
+            {
+                "title":"Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/24875.jpg?s=a8d87c31589c0c13c15df25697a9e528"
+            },
+            {
+                "title":"Koi Kaze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/61441.jpg?s=4be5843a95373c5ad03c942f77ce47ac"
+            },
+            {
+                "title":"Myself; Yourself",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75247.jpg"
+            },
+            {
+                "title":"Selector Infected WIXOSS",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/70147.jpg?s=64853221c2c20d3f276e9a9b5b9cd229"
+            },
+            {
+                "title":"Yosuga no Sora",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/76216.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Mindfuck",
+        "animes":[
+            {
+                "title":"Ergo Proxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/6259.jpg?s=4fd55e1e59f0bb02ea88a28ed88834c1"
+            },
+            {
+                "title":"Ghost Hound",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/22691.jpg"
+            },
+            {
+                "title":"Grave of the Fireflies",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/75808.jpg"
+            },
+            {
+                "title":"Kaiba",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906e5574c1aebd02d48d3fe30073a70"
+            },
+            {
+                "title":"Mawaru Penguindrum",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/30238.jpg?s=46b2444e8088905ae92732f507f0d276"
+            },
+            {
+                "title":"Mind Game",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1722/96276.jpg?s=0fc227c4f345f55e24000b455cec27b7"
+            },
+            {
+                "title":"Neon Genesis Evangelion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=8055a0c1ad69357576fc40b690b63b03"
+            },
+            {
+                "title":"Paranoia Agent",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/10240.jpg"
+            },
+            {
+                "title":"Perfect Blue",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/79127.jpg?s=9b05b16f15f6d4d6ead6a275493a0c41"
+            },
+            {
+                "title":"Serial Experiments Lain",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1718/91550.jpg?s=a7345c87c4b2e5632a0562f3204d52bb"
+            },
+            {
+                "title":"Texhnolyze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/18165.jpg?s=9607a943834cee360a42b36a628848d6"
+            },
+            {
+                "title":"Yuri Kuma Arashi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/69203.jpg?s=83203b6a5108fa8b34bcfe5c873decfb"
+            }
+        ]
+    },
+    {
+        "type":"Mind Games",
+        "animes":[
+            {
+                "title":"Code Geass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+            },
+            {
+                "title":"Death Note",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=b89e80691ac5cc0610847ccbe0b8424a"
+            },
+            {
+                "title":"Kakegurui",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/86578.jpg?s=9bc5e03a533e5f4c1f08115686952c02"
+            },
+            {
+                "title":"Kaiji",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/80032.jpg"
+            },
+            {
+                "title":"One Outs",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/21065.jpg?s=f072084cc11c8f6d110959a0b894d57c"
+            },
+            {
+                "title":"Karakai Jouzu no Takagi-san",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1591/95091.jpg?s=7d8e6373e17c05da36a139d1ffc73d4f"
+            }
+        ]
+    },
+    {
+        "type":"Character Archetypes",
+        "animes":[
+            {
+                "title":"Bakemonogatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/75274.jpg?s=3bb5c42c0803621dde09c52f5c4d4249"
+            },
+            {
+                "title":"Grisaia no Kajitsu",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/73591.jpg?s=4d45a2caf4d5b0e75361b2529faa023b"
+            },
+            {
+                "title":"High School DxD",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1331/111940.jpg?s=ff42c65c550aa02f8f55ffb22c6a00ce"
+            },
+            {
+                "title":"School Days",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/86373.jpg?s=e2b5b8c705bda9a783f4f17ee66e36e5"
+            },
+            {
+                "title":"Seitokai no Ichizon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/19646.jpg?s=4cf5765616a5fb841f67337126a9f8da"
+            },
+            {
+                "title":"Trinity Seven",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/67795.jpg?s=cf9c5643c41751d9523b16254df10e7b"
+            },
+            {
+                "title":"The World God Only Knows",
+                "img_url":"The World God Only Knows"
+            },
+            {
+                "title":"Yosuga no Sora",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/76216.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Anti-hero",
+        "animes":[
+            {
+                "title":"Black Lagoon",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/25596.jpg?s=bac44e7495c96d18b47f21de83b42690"
+            },
+            {
+                "title":"Code Geass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+            },
+            {
+                "title":"Darker than Black",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50373.jpg"
+            },
+            {
+                "title":"Death Note",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=b89e80691ac5cc0610847ccbe0b8424a"
+            },
+            {
+                "title":"Fate/Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73249.jpg?s=0ddd3d84549e11eda144df33626f97ae"
+            },
+            {
+                "title":"Hellsing Ultimate",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/7333.jpg?s=00a2f1443aaff74d48d9a5547db67cc3"
+            },
+            {
+                "title":"Mirai Nikki",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/33465.jpg?s=47381246925211d3873b932cba7b2703"
+            }
+        ]
+    },
+    {
+        "type":"Violet",
+        "animes":[
+            {
+                "title":"Code Geass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+            },
+            {
+                "title":"Fate/Stay Night: Unlimited Blade Works",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/67333.jpg"
+            },
+            {
+                "title":"Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/24875.jpg?s=a8d87c31589c0c13c15df25697a9e528"
+            },
+            {
+                "title":"The Quintessential Quintuplets",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1819/97947.jpg"
+            },
+            {
+                "title":"Spice and Wolf",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/59399.jpg"
+            },
+            {
+                "title":"Steins;Gate",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=97b97d568f25a02cf5a22dda13b5371f"
+            }
+        ]
+    },
+    {
+        "type":"Yandere",
+        "animes":[
+            {
+                "title":"A Certain Scientific Railgun",
+                "img_url":""
+            },
+            {
+                "title":"Clannad",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1804/95033.jpg?s=9859f25603227060cb83ae886ea1b65d"
+            },
+            {
+                "title":"The Familiar of Zero",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/75559.jpg"
+            },
+            {
+                "title":"Neon Genesis Evangelion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=8055a0c1ad69357576fc40b690b63b03"
+            },
+            {
+                "title":"Nisekoi",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/75587.jpg?s=62eb23b86cf20c3b322424c96703b742"
+            }
+        ]
+    },
+    {
+        "type":"College",
+        "animes":[
+            {
+                "title":"Genshiken",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1890/94707.jpg?s=9364d222f06d7879d6d2312b91d316d3"
+            },
+            {
+                "title":"Golden Time",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/52091.jpg?s=99c4234ca513f168c965d872c62f7fae"
+            },
+            {
+                "title":"Grand Blue",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1302/94882.jpg?s=3fc1cd740bf7ba7389dcd7aa9576af4e"
+            },
+            {
+                "title":"Honey and Clover",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/73923.jpg"
+            },
+            {
+                "title":"Love Hina",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1725/94697.jpg?s=5f1dd345732534a964c6844ced4a8f68"
+            },
+            {
+                "title":"Maison Ikkoku",
+                "img_url":"https://cdn.myanimelist.net/images/anime/6/17576.jpg?s=1965d43f5eb8445f2b475b199460e61b"
+            },
+            {
+                "title":"Nodame Cantabile",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=026366b29c73b058d45e0c357408c23b"
+            },
+            {
+                "title":"The Tatami Galaxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/50457.jpg"
+            }
+        ]
+    },
+    {
+        "type":"Cyberpunk",
+        "animes":[
+            {
+                "title":"Akira",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=a40642bc05257132b07970b475342353"
+            },
+            {
+                "title":"Dennou Coil",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/12844.jpg?s=613f2f1c8971c8ae279ec47a57d03e90"
+            },
+            {
+                "title":"Eve no Jikan (Movie)",
+                "img_url":"https://cdn.myanimelist.net/images/anime/9/27711.jpg?s=2ca19ecabbe88c4b76ac97e13b63f14b"
+            },
+            {
+                "title":"Ghost in the Shell",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50857.jpg"
+            },
+            {
+                "title":"Metropolis",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/75601.jpg?s=c4c14cf3d39d29f6b7e04b2062b5fba5"
+            },
+            {
+                "title":"Psycho-Pass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/43399.jpg?s=a5f419aedb5908dfd0a419e6abfb588b"
+            },
+            {
+                "title":"Summer Wars",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/15796.jpg?s=0b9114a4f1e20d7dd08fda2c64483ef9"
+            },
+            {
+                "title":"Texhnolyze",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/18165.jpg?s=9607a943834cee360a42b36a628848d6"
+            }
+        ]
+    },
+    {
+        "type":"Dystopia",
+        "animes":[
+            {
+                "title":"Akira",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=a40642bc05257132b07970b475342353"
+            },
+            {
+                "title":"Darling in the FranXX",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1614/90408.jpg?s=b06206668b10bcea85aa9cc75b5673f3"
+            },
+            {
+                "title":"From the New World",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/36775.jpg"
+            },
+            {
+                "title":"Ghost in the Shell",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/50857.jpg"
+            },
+            {
+                "title":"The Promised Neverland",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1125/96929.jpg"
+            },
+            {
+                "title":"Psycho-Pass",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/43399.jpg?s=a5f419aedb5908dfd0a419e6abfb588b"
+            },
+            {
+                "title":"Scrapped Princess",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1238/94717.jpg?s=93bc232c54979c73324a1959e7a64279"
+            }
+        ]
+    },
+    {
+        "type":"Post-Apocolyptic",
+        "animes":[
+            {
+                "title":"Dr. Stone",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1613/102576.jpg?s=44aa2af9cfc2523f9feb07d2b13d4196"
+            },
+            {
+                "title":"Girls’ Last Tour",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/88321.jpg"
+            },
+            {
+                "title":"Neon Genesis Evangelion",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=8055a0c1ad69357576fc40b690b63b03"
+            },
+            {
+                "title":"Sora no Woto",
+                "img_url":"https://cdn.myanimelist.net/images/anime/7/81654.jpg"
+            },
+            {
+                "title":"Tokyo Magnitude 8.0",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/13776.jpg?s=59923e912c52be84eba47bd67c89d447"
+            }
+        ]
+    },
+    {
+        "type":"Workplace",
+        "animes":[
+            {
+                "title":"Bartender",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/67397.jpg?s=1bec7ca6f389777c462ddee0685eb54c"
+            },
+            {
+                "title":"Denki-gai no Honya-san",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/65339.jpg?s=dca56b68dd90855ef6148d92f50aa7fa"
+            },
+            {
+                "title":"Gi(a)rlish Number",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/82291.jpg?s=a97de3943655535e5151f0375f19b43a"
+            },
+            {
+                "title":"Hataraki Man",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/73869.jpg?s=642b7d325264084fb4bcb2cb66cc5e94"
+            },
+            {
+                "title":"Hataraku Maou-sama!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/50177.jpg?s=806f9709a27518b8243d0d881f5384ff"
+            },
+            {
+                "title":"Hanasaku Iroha",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/28967.jpg?s=ba0907ba48aa91a3b4742c69b7e090df"
+            },
+            {
+                "title":"Planetes",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=d46f1c78402853e6f1003b36e6de0b64"
+            },
+            {
+                "title":"Ristorante Paradiso",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/17488.jpg?s=d61cc80333bd8138d0b4089286ace5e4"
+            },
+            {
+                "title":"Servant x Service",
+                "img_url":"https://cdn.myanimelist.net/images/anime/13/51579.jpg?s=42fb6e82aa30c7d7478038b741882a8c"
+            },
+            {
+                "title":"Shirobako",
+                "img_url":"https://cdn.myanimelist.net/images/anime/1918/93511.jpg?s=b802f6b471585b9dd962ca67956a8997"
+            },
+            {
+                "title":"Working!!",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/75262.jpg?s=6077f0616e8fab853db4a3039b86c457"
+            }
+        ]
+    },
+    {
+        "type":"Technical Characteristics",
+        "animes":[
+            {
+                "title":"Aku no Hana",
+                "img_url":"https://cdn.myanimelist.net/images/anime/8/50559.jpg?s=66ad6cef4a7c53a7cafb494c2d8748d3"
+            },
+            {
+                "title":"Gankutsuou",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/2235.jpg?s=447862e3f54cb465ab200a7800094a22"
+            },
+            {
+                "title":"Girls’ Last Tour",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/88321.jpg"
+            },
+            {
+                "title":"Jinrui wa Suitai Shimashita",
+                "img_url":"https://cdn.myanimelist.net/images/anime/4/45704.jpg?s=95a7ac7db8bf13b5fce186cd94d6dfe0"
+            },
+            {
+                "title":"Katanagatari",
+                "img_url":"https://cdn.myanimelist.net/images/anime/2/50023.jpg?s=dbe6e0fbe6c8a09748547eb87e6df5f4"
+            },
+            {
+                "title":"Mahou Shoujo Madoka★Magica",
+                "img_url":"https://cdn.myanimelist.net/images/anime/11/55225.jpg?s=cff930c5de079dbeab2107067050e03c"
+            },
+            {
+                "title":"Mononoke",
+                "img_url":"https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=3938ebc2f550dbab2563df778857ee86"
+            },
+            {
+                "title":"Ping Pong the Animation",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=fbfd98389b5a6f1a27979446e3f07abe"
+            },
+            {
+                "title":"Redline",
+                "img_url":"https://cdn.myanimelist.net/images/anime/12/28553.jpg?s=7599b6753f08d5091209534974c60b2c"
+            },
+            {
+                "title":"Sayonara Zetsubou Sensei",
+                "img_url":"https://cdn.myanimelist.net/images/anime/5/6559.jpg?s=1fa13ba08de3616a0913c6d847572f10"
+            },
+            {
+                "title":"Shingeki no Kyojin",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=29949c6e892df123f0b0563e836d3d98"
+            },
+            {
+                "title":"The Tatami Galaxy",
+                "img_url":"https://cdn.myanimelist.net/images/anime/10/50457.jpg"
+            }
+        ]
+    }
+]

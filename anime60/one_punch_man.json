@@ -1,0 +1,65 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a03x",
+        "iframe": true,
+        "episode_number": 1
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a03y",
+        "iframe": true,
+        "episode_number": 2
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a03z",
+        "iframe": true,
+        "episode_number": 3
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a09i",
+        "iframe": true,
+        "episode_number": 4
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a0d0",
+        "iframe": true,
+        "episode_number": 5
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a0n9",
+        "iframe": true,
+        "episode_number": 6
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a0n9",
+        "iframe": true,
+        "episode_number": 7
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a0rw",
+        "iframe": true,
+        "episode_number": 8
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/OPS1-09-acc/e5cbad7e07ca3c159f0ce8555bdbed08e9377efb/f46602",
+        "iframe": false,
+        "episode_number": 9
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a12u",
+        "iframe": true,
+        "episode_number": 10
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85a14u",
+        "iframe": true,
+        "episode_number": 11
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x85xt7q",
+        "iframe": true,
+        "episode_number": 11
+      }
+    ]
+  }
+  

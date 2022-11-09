@@ -1,0 +1,29 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/demon_slayer_mugen_4k_sub_part_1-AnimetTV/53b9296fbaa3633e14ef98a6348964862cea7b9a/28b543",
+        "download": "",
+        "iframe": false,
+        "episode_number": 1
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/demon_slayer_mugen_4k_sub_part_2-AnimetTV/aa4ac6af41b5f6c4ad83703ffa161af4477e2bb3/abb673",
+        "download": "",
+        "iframe": false,
+        "episode_number": 2
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/demon_slayer_mugen_4k_sub_part_3-AnimetTV/885af23e27488a304320fe691e6faeb3ff3e1ef6/b61f0c",
+        "download": "",
+        "iframe": false,
+        "episode_number": 3
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/demon_slayer_mugen_4k_sub_part_4-AnimetTV/a46c923b913e7c167ccf108c194139ef65090562/e4c445",
+        "download": "",
+        "iframe": false,
+        "episode_number": 4
+      }
+    ]
+  }
+   

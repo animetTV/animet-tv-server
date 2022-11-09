@@ -1,0 +1,47 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-01-4k/334ea7bb816ba9b4825bf1fa93197e7d3398de9e/21636e",
+        "download": "https://ouo.io/KAsajLm",
+        "iframe": false,
+        "episode_number": 1
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-02-4k/4ce7d27d6d6d8f0f86c88b8e343e02767f145c6e/57418e",
+        "download": "https://ouo.io/WpwLF2",
+        "iframe": false,
+        "episode_number": 2
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-03-4k/fbc1cef3ea8bd3cdd2d87abaeefb14ed06194e8f/33ccc7",
+        "download": "https://ouo.io/arAQ3R",
+        "iframe": false,
+        "episode_number": 3
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-04-4k/d6b0fac7d8c6a5a98a3eddc1a472e79f922ae77e/2a80fb",
+        "download": "https://ouo.io/H5NOmN",
+        "iframe": false,
+        "episode_number": 4
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-05-4k/0c7179b9dab4b7e4b4b68c781262e3a73bf339c1/95aca3",
+        "download": "https://ouo.io/ZLyBblb",
+        "iframe": false,
+        "episode_number": 5
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-06-4k/39b46aca1f1c915f88b6181a9baf69f606a893c9/0b5e12",
+        "download": "https://ouo.io/5H7zqS",
+        "iframe": false,
+        "episode_number": 6
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/ultra-romantic-07-4k/2120765a2818407df314dcbb7b1b6ed9b678cb93/b54980",
+        "download": "https://ouo.io/dHGSvg",
+        "iframe": false,
+        "episode_number": 7
+      }
+    ]
+  }
+   

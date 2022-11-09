@@ -1,0 +1,15 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/akira_1988_remastered_dub_part_1/eab6401a8876d7c75b9afff254d71b19fd77b787/f46602",
+        "iframe": false,
+        "episode_number":  1
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/akira_1988_remastered_dub_part_2/6525937f8dd40038ff65607c27a7792c93e4a9e7/f46602",
+        "iframe": false,
+        "episode_number": 2
+      }
+    ]
+  }
+  

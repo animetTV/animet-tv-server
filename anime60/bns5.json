@@ -1,0 +1,101 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-01-1080p60-SUB/37534f809f900e35b8899a1de9f092760a972721/19bc26",
+        "download": "https://ouo.io/YoyvMb",
+        "iframe": false,
+        "episode_number":  1
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-02-1080p60-SUB/8d4572193e9791cbbbc12b86b90209b43c97ecb1/e15e4f",
+        "download": "https://ouo.io/n4tyja",
+        "iframe": false,
+        "episode_number": 2
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-03-1080p60-SUB/b6a7d8753d2e43842f3711441fd77a0368fa91e2/4d97fb",
+        "download": "https://ouo.io/3SrLxbu",
+        "iframe": false,
+        "episode_number": 3
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-04-1080p60-SUB/940d7687be74e4ef6a99d69b31b1cae4cae28335/0110ed",
+        "download": "https://ouo.io/zy5jUG",
+        "iframe": false,
+        "episode_number": 4
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-05-1080p60-SUB/c9cecf7086888a29570d860f4a9f0a72418db971/1fe158",
+        "download": "https://ouo.io/G4B6Xs",
+        "iframe": false,
+        "episode_number": 5
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-06-1080p60-SUB/b101cf36aa7096640fbb3eb33b733bbdbe1c5dfe/a2e0ba",
+        "download": "https://ouo.io/gfrGJsF",
+        "iframe": false,
+        "episode_number": 6
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-07-1080p60-SUB/a74ec095a8a65771bd39d5a80247f16134292d1d/f902fd",
+        "download": "https://ouo.io/n978LZ",
+        "iframe": false,
+        "episode_number": 7
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-08-1080p60-SUB/ffa6b45d7edd721c928ecb953acef5d454ac278e/8c0434",
+        "download": "https://ouo.io/vGK2bl",
+        "iframe": false,
+        "episode_number": 8
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-09-1080p60-SUB/3833f0c641b37e0df4c5826e81fc2bd890746c99/8d10fc",
+        "download": "https://ouo.io/Tbws3R",
+        "iframe": false,
+        "episode_number": 9
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-10-1080p60-SUB/c10226335e2dbbce26f402ca47460a6fbfbe85aa/f5a1e6",
+        "download": "https://ouo.io/OIlUmXZ",
+        "iframe": false,
+        "episode_number": 10
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-11-1080p60-SUB/7b75362a7b2087a857de5cc2eecca23dc6d1a895/12387e",
+        "download": "https://ouo.io/NnYg3R",
+        "iframe": false,
+        "episode_number": 11
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-12-1080p60-SUB/66a9e0ddbec6301c238f775e19edddb07d7fe95d/3bcfbd",
+        "download": "https://ouo.io/VhB4n3",
+        "iframe": false,
+        "episode_number": 12
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-13-1080p60-SUB/e4803a51cb30ea76f65285d03d217fc423133960/77f232",
+        "download": "https://ouo.io/SBUoV7",
+        "iframe": false,
+        "episode_number": 13
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-14-1080p60-SUB/055a74f2697ae283edaa671c24638de66ae86536/d7bcdc",
+        "download": "https://ouo.io/EzLDLx",
+        "iframe": false,
+        "episode_number": 14
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-15-1080p60-SUB/31562aa5637cd24461ea4fcd057fb778a40c4bed/301b73",
+        "download": "https://ouo.io/oYCL3Z",
+        "iframe": false,
+        "episode_number": 15
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/BNS5-16-1080p60-SUB/98d050387d763e829bc9ea84b811841051f15b9b/04fd8a",
+        "download": "https://ouo.io/6MrMlT",
+        "iframe": false,
+        "episode_number": 16
+      }
+    ]
+  }
+  

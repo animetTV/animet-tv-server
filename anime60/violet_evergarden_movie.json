@@ -1,0 +1,15 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://ok.ru/videoembed/4456975895184",
+        "iframe": true,
+        "episode_number":  1
+      },
+      {
+        "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x866yt5",
+        "iframe": true,
+        "episode_number": 5
+      }
+    ]
+  }
+  

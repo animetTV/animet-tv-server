@@ -1,0 +1,37 @@
+[
+    {
+        "label": "ZEUS",
+        "continent": "NA",
+        "url": "https://cors-anywhere-zeuz-na.onrender.com/"
+    },
+    {
+        "label": "ODIN",
+        "continent": "NA",
+        "url": "https://cors-anywhere-odin-na.onrender.com/"
+    },  
+    {
+        "label": "ARES",
+        "continent": "EU",
+        "url": "https://cors-anywhere-ares-eu.onrender.com/"
+    },
+    {
+        "label": "limited",
+        "continent": "EU",
+        "url": "https://cors-anywhere-hermes.noreply5262.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "NA",
+        "url": "https://cors-anywhere-hermes.noreply5262.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "NA",
+        "url": "https://cors-anywhere.demonking.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "EU",
+        "url": "https://cors-anywhere.demonking.workers.dev/?"
+    }
+]

@@ -1,0 +1,975 @@
+[
+  {
+    "Type": "Action",
+    "Anime": [
+      { "Title": "Baccano!", "img_url": "" },
+      { "Title": "Black Lagoon", "img_url": "" },
+      { "Title": "Claymore", "img_url": "" },
+      { "Title": "Cowboy Bebop", "img_url": "" },
+      { "Title": "Darker than Black", "img_url": "" },
+      { "Title": "Fate/Zero", "img_url": "" },
+      { "Title": "Ghost in the Shell", "img_url": "" },
+      { "Title": "Gungrave", "img_url": "" },
+      { "Title": "Hellsing Ultimate", "img_url": "" },
+      { "Title": "Katanagatari", "img_url": "" },
+      { "Title": "Shoujo☆Kageki Revue Starlight", "img_url": "" },
+      { "Title": "Sword of the Stranger", "img_url": "" },
+      { "Title": "Tiger and Bunny", "img_url": "" },
+      { "Title": "Youjo Senki", "img_url": "" }
+    ]
+  },
+  {
+    "Type": "Battle Shounen",
+    "Anime": [
+      { "Title": "Akame ga Kill", "img_url": "" },
+      { "Title": "Assassination Classroom", "img_url": "" },
+      { "Title": "Attack on Titan", "img_url": "" },
+      { "Title": "Boku no Hero Academia", "img_url": "" },
+      { "Title": "Fire Force", "img_url": "" },
+      { "Title": "Fullmetal Alchemist: Brotherhood", "img_url": "" },
+      { "Title": "Hunter x Hunter (2011)", "img_url": "" },
+      { "Title": "Bizarre Adventure", "img_url": "" },
+      { "Title": "Kimetsu no Yaiba", "img_url": "" },
+      { "Title": "Rurouni Kenshin", "img_url": "" },
+      { "Title": "Yuu Yuu Hakusho", "img_url": "" }
+    ]
+  },
+  {
+  "Type": "Over the top Actio",
+    "Anime": [
+      { "Title": "Dead Leaves", "img_url": "" },
+      { "Title": "FLCL", "img_url": "" },
+      { "Title": "Kill la Kill", "img_url": "" },
+      { "Title": "Mob Psycho 100", "img_url": "" },
+      { "Title": "One Punch Man", "img_url": "" },
+      { "Title": "Redline", "img_url": "" },
+      { "Title": "Tengen Toppa Gurren Lagann", "img_url": "" }
+    ]
+},
+{
+  "Type": "Action Comedy",
+    "Anime": [
+      { "Title": "One Punch Man", "img_url": "" },
+      { "Title": "Bungou Stray Dogs", "img_url": "" },
+      { "Title": "Kekkai Sensen", "img_url": "" },
+      { "Title": "Soul Eater", "img_url": "" },
+      { "Title": "Trigun", "img_url": "" }
+    ]
+},
+{
+  "Type": "Adventure",
+    "Anime": [
+      { "Title": "Akatsuki no Yona", "img_url": "" },
+      { "Title": "Cowboy Bebop", "img_url": "" },
+      { "Title": "Dororo", "img_url": "" },
+      { "Title": "Dog Days", "img_url": "" },
+      { "Title": "Girls’ Last Tour", "img_url": "" },
+      { "Title": "Gosick", "img_url": "" },
+      { "Title": "Golden Kamuy", "img_url": "" },
+      { "Title": "Hitsugi no Chaika", "img_url": "" },
+      { "Title": "Kino&#39;s Journey", "img_url": "" },
+      { "Title": ">Made in Abyss", "img_url": "" },
+      { "Title": "Mushishi", "img_url": "" },
+      { "Title": "A Place Further than the Universe", "img_url": "" },
+      { "Title": "Shingeki no Bahamut: Genesis", "img_url": "" },
+      { "Title": "Spice and Wolf", "img_url": "" },
+       { "Title": "Wolf’s Rain", "img_url": "" }
+    ]
+},{
+  "Type": "Action Adventure",
+    "Anime": [
+      { "Title": "Fullmetal Alchemist: Brotherhood", "img_url": "" },
+      { "Title": "Hunter x Hunter (2011)", "img_url": "" },
+      { "Title": "JoJo&#39;s Bizarre Adventure", "img_url": "" },
+      { "Title": "Katanagatari", "img_url": "" },
+      { "Title": "Lupin III", "img_url": "" },
+      { "Title": "Magi: The Labyrinth of Magic", "img_url": "" },
+      { "Title": "Nanatsu no Taizai", "img_url": "" },
+      { "Title": "One Piece", "img_url": "" },
+      { "Title": "Samurai Champloo", "img_url": "" },
+      { "Title": "Trigun", "img_url": "" }
+    ]
+},{
+  "Type": "Comedy",
+    "Anime": [
+    { "Title": "Arakawa Under the Bridge", "img_url": "" },
+      { "Title": "Azumanga Daioh", "img_url": "" },
+      { "Title": "B Gata H Kei", "img_url": "" },
+      { "Title": "Binbougami ga", "img_url": "" },
+      { "Title": "Bokura wa Minna Kawaisou", "img_url": "" },
+      { "Title": "Cromartie High School", "img_url": "" },
+      { "Title": "Demi-chan wa Kataritai", "img_url": "" },
+      { "Title": "D-Frag!", "img_url": "" },
+      { "Title": "Great Teacher Onizuka", "img_url": "" },
+      { "Title": "Henneko", "img_url": "" },
+      { "Title": "Love Lab", "img_url": "" },
+      { "Title": "Mangaka-san to Assistant-san to", "img_url": "" },
+      { "Title": "NouCome", "img_url": "" },
+      { "Title": "Nyan Koi!", "img_url": "" },
+      { "Title": "OreImo", "img_url": "" },
+      { "Title": "Outbreak Company", "img_url": "" },
+      { "Title": "Sabagebu!", "img_url": "" },
+      { "Title": "Sakurasou no Pet na Kanojo", "img_url": "" },
+      { "Title": "Saint Onii-san", "img_url": "" },
+      { "Title": "School Rumble", "img_url": "" },
+      { "Title": "Seitokai Yakuindomo", "img_url": "" },
+      { "Title": "Working!!", "img_url": "" },
+      { "Title": "Yuushibu", "img_url": "" },
+      { "Title": "Yuyushiki", "img_url": "" }
+    ]
+},{
+  "Type": "Aburdist Humour",
+    "Anime": [
+       { "Title": "The Daily Lives of High School Boys", "img_url": "" },
+      { "Title": "Humanity has Declined", "img_url": "" },
+      { "Title": "Nichijou", "img_url": "" },
+      { "Title": "Stocking with Garterbelt", "img_url": "" },
+      { "Title": "Plastic Nee-san", "img_url": "" },
+      { "Title": "Teekyuu", "img_url": "" },
+      { "Title": "Yuru Yuri", "img_url": "" }
+    ]
+},{
+  "Type": "Dark Humour",
+    "Anime": [
+     { "Title": "Detroit Metal City", "img_url": "" },
+      { "Title": "Sayonara Zetsubou Sensei", "img_url": "" },
+      { "Title": "Watamote", "img_url": "" },
+      { "Title": "Welcome to the NHK!", "img_url": "" }
+    ]
+},{
+  "Type": "Dramedy",
+    "Anime": [
+      { "Title": "Angel Beats", "img_url": "" },
+      { "Title": "Barakamon", "img_url": "" },
+      { "Title": "Castle Town Dandelion", "img_url": "" },
+      { "Title": "Charlotte", "img_url": "" },
+      { "Title": "Chuunibyou", "img_url": "" },
+      { "Title": "Hinamatsuri", "img_url": "" },
+      { "Title": "Kuragehime", "img_url": "" },
+      { "Title": "The Tatami Galaxy", "img_url": "" }
+    ]
+},{
+  "Type": "Slapstick",
+    "Anime": [
+     { "Title": "Aho-Girl", "img_url": "" },
+      { "Title": "Asobi Asobase", "img_url": "" },
+      { "Title": "Blend-S", "img_url": "" },
+      { "Title": "Gabriel Dropout", "img_url": "" },
+      { "Title": "Grand Blue", "img_url": "" },
+      { "Title": "Kono Subarashii Sekai ni Shukufuku wo!", "img_url": "" },
+      { "Title": "Nichijou", "img_url": "" },
+      { "Title": "Nisekoi", "img_url": "" },
+      { "Title": "Nourin", "img_url": "" }
+    ]
+},{
+  "Type": "Parody/Satire",
+    "Anime": [
+    { "Title": "Carnival Phantasm", "img_url": "" },
+      { "Title": "Gekkan Shoujo Nozaki-kun", "img_url": "" },
+      { "Title": "Ghost Stories", "img_url": "" },
+      { "Title": "Gintama", "img_url": "" },
+      { "Title": "Ore, Twintails ni Narimasu", "img_url": "" },
+      { "Title": "Sayonara Zetsubou Sensei", "img_url": "" },
+      { "Title": "Senyuu", "img_url": "" },
+      { "Title": "The World God Only Knows", "img_url": "" }
+    ]
+},{
+  "Type": "Drama",
+    "Anime": [
+     { "Title": "3-gatsu no Lion", "img_url": "" },
+      { "Title": "Anohana", "img_url": "" },
+      { "Title": "Angel Beats", "img_url": "" },
+      { "Title": "Clannad", "img_url": "" },
+      { "Title": "Hanasaku Iroha", "img_url": "" },
+      { "Title": "Hibike! Euphonium!", "img_url": "" },
+      { "Title": "Hourou Musuko", "img_url": "" },
+      { "Title": "Koe no Katachi/A Silent Voice", "img_url": "" },
+      { "Title": "Koi Kaze", "img_url": "" },  
+      { "Title": "Kokoro Connect", "img_url": "" },
+      { "Title": "Kuzu no Honkai", "img_url": "" },
+      { "Title": "Nagi no Asukara", "img_url": "" },
+      { "Title": "Nana", "img_url": "" },
+      { "Title": "Oregairu", "img_url": "" },
+      { "Title": "Planetes", "img_url": "" },
+      { "Title": "Plastic Memories", "img_url": "" },
+      { "Title": "ReLIFE", "img_url": "" },
+      { "Title": "Rumbling Hearts", "img_url": "" },
+      { "Title": "Sakurasou no Pet na Kanojo", "img_url": "" },
+      { "Title": "School Days", "img_url": "" },
+      { "Title": "Shigatsu wa Kimi no Uso", "img_url": "" },
+      { "Title": "Shirobako", "img_url": "" },
+      { "Title": "Shoujo☆Kageki Revue Starlight", "img_url": "" },  
+      { "Title": "Shouwa Genroku Rakugo Shinjuu", "img_url": "" },
+      { "Title": "True Tears", "img_url": "" },
+      { "Title": "Welcome to the NHK!", "img_url": "" },
+      { "Title": "Yuri on Ice", "img_url": "" }
+    ]
+},{
+  "Type": "Mildly Ecchi",
+    "Anime": [
+       { "Title": "Golden Boy", "img_url": "" },
+      { "Title": "Kämpfer", "img_url": "" },
+      { "Title": "Kill la Kill", "img_url": "" },
+      { "Title": "Ladies versus Butlers!", "img_url": "" },
+      { "Title": "MM!", "img_url": "" },
+      { "Title": "Saenai Heroine", "img_url": "" },
+      { "Title": "Sekirei", "img_url": "" },
+      { "Title": "Strike Witches", "img_url": "" },
+      { "Title": "Tsugumomo", "img_url": "" }
+    ]
+},{
+  "Type": "Fairly Ecchi",
+    "Anime": [
+      { "Title": "Highschool of the Dead", "img_url": "" },  
+      { "Title": "Miru Tights", "img_url": "" },
+      { "Title": "Monogatari", "img_url": "" },
+      { "Title": "Okusama ga Seitokaichou", "img_url": "" },
+      { "Title": "Strike the Blood", "img_url": "" }
+    ]
+},{
+  "Type": "Close To Hentai",
+    "Anime": [
+         { "Title": "High School DxD", "img_url": "" },
+      { "Title": "Kiss x Sis", "img_url": "" },
+      { "Title": "Monster Musume", "img_url": "" },
+      { "Title": "The Testament of Sister New Devil", "img_url": "" },
+      { "Title": "To LOVE Ru", "img_url": "" },
+      { "Title": "Valkyrie Drive: Mermaid", "img_url": "" }
+    ]
+},{
+  "Type": "Urban Fantasy",
+    "Anime": [
+       { "Title": "Baccano", "img_url": "" },
+      { "Title": "Bungou Stray Dogs", "img_url": "" },
+      { "Title": "Fate/Zero", "img_url": "" },
+      { "Title": "Little Witch Academia (TV)", "img_url": "" },
+      { "Title": "Kara no Kyoukai", "img_url": "" },
+      { "Title": "Kekkai Sensen", "img_url": "" },
+      { "Title": "Kyousougiga", "img_url": "" },
+      { "Title": "Noragami", "img_url": "" },
+      { "Title": "Puella Magi Madoka Magica", "img_url": "" },
+      { "Title": "Uchouten Kazoku", "img_url": "" },
+      { "Title": "Yuu Yuu Hakusho", "img_url": "" }
+    ]
+},{
+  "Type": "Historical Fantasy",
+    "Anime": [
+       { "Title": "Arslan Senki", "img_url": "" },
+      { "Title": "Drifters", "img_url": "" },
+      { "Title": "Junketsu no Maria", "img_url": "" },
+      { "Title": "Magi: The Labyrinth of Magic", "img_url": "" },
+      { "Title": "Millenium Actress", "img_url": "" },
+      { "Title": "Mononoke", "img_url": "" },
+      { "Title": "Mushishi", "img_url": "" },
+      { "Title": "Kimetsu no Yaiba", "img_url": "" },
+      { "Title": "Romeo x Juliet", "img_url": "" },
+      { "Title": "The Tale of Princess Kaguya", "img_url": "" }
+    ]
+},{
+  "Type": "High Fantasy",
+    "Anime": [
+          { "Title": "Berserk", "img_url": "" },
+      { "Title": "DanMachi", "img_url": "" },
+      { "Title": "Densetsu no Yuusha no Densetsu", "img_url": "" },
+      { "Title": "Endro", "img_url": "" },
+      { "Title": "Erin", "img_url": "" },
+      { "Title": "Fullmetal Alchemist: Brotherhood", "img_url": "" },
+      { "Title": "Hakumei to Mikochi", "img_url": "" },
+      { "Title": "Record of Lodoss War", "img_url": "" },
+      { "Title": "Scrapped Princess", "img_url": "" },
+      { "Title": "Shingeki no Bahamut: Genesis", "img_url": "" }
+    ]
+},{
+  "Type": "Dark Fantasy",
+    "Anime": [
+       { "Title": "Bokurano", "img_url": "" },
+      { "Title": "Claymore", "img_url": "" },
+      { "Title": "Berserk", "img_url": "" },
+      { "Title": "Fate/Zero", "img_url": "" },
+      { "Title": "Haibane Renmei", "img_url": "" },
+      { "Title": "Houseki no Kuni", "img_url": "" },
+      { "Title": "Mononoke", "img_url": "" },
+      { "Title": "Shinsekai yori", "img_url": "" }
+    ]
+},{
+  "Type": "Isekai",
+    "Anime": [
+      { "Title": "Ascendance of a Bookworm", "img_url": "" },
+      { "Title": "The Devil is a Part Timer", "img_url": "" },
+      { "Title": "Escaflowne", "img_url": "" },
+      { "Title": "The Familiar of Zero", "img_url": "" },
+      { "Title": "Grimgar of Fantasy and Ash", "img_url": "" },
+      { "Title": "Kono Subarashii Sekai ni Shukufuku wo!", "img_url": "" },
+      { "Title": "Log Horizon", "img_url": "" },
+      { "Title": "Magic Knight Rayearth", "img_url": "" },
+      { "Title": "Now and Then, Here and There", "img_url": "" },
+      { "Title": "Overlord", "img_url": "" },
+      { "Title": "Re:Zero kara Hajimeru Isekai Seikatsu", "img_url": "" },
+      { "Title": "Restaurant to Another World", "img_url": "" },
+      { "Title": "Spirited Away", "img_url": "" },
+      { "Title": "Sword Art Online", "img_url": "" },
+      { "Title": "That Time I was Reincarnated as a Slime<", "img_url": "" },
+      { "Title": "The Twelve Kingdoms", "img_url": "" }
+    ]
+},{
+  "Type": "Romance / Drama",
+    "Anime": [
+          { "Title": "Clannad", "img_url": "" },
+      { "Title": "ef - a tale of memories.", "img_url": "" },
+      { "Title": "Golden Time", "img_url": "" },
+      { "Title": "Hanbun no Tsuki ga Noboru Sora", "img_url": "" },
+      { "Title": "Kimi no na wa/Your Name", "img_url": "" },
+      { "Title": "Koe no Katachi/A Silent Voice", "img_url": "" },
+      { "Title": "Koi Kaze", "img_url": "" },
+      { "Title": "Kokoro Connect", "img_url": "" },
+      { "Title": "Kuzu no Honkai", "img_url": "" },
+      { "Title": "Myself ; Yourself", "img_url": "" },
+      { "Title": "Nagi no Asukara", "img_url": "" },
+      { "Title": "Nana", "img_url": "" },
+      { "Title": "Nodame Cantabile", "img_url": "" },
+      { "Title": "Planetes", "img_url": "" },
+      { "Title": "Rumbling Hearts", "img_url": "" },
+      { "Title": "Sakurasou no Pet na Kanojo", "img_url": "" },
+      { "Title": "Shigatsu wa Kimi no Uso", "img_url": "" },
+      { "Title": "Spice and Wolf", "img_url": "" },
+      { "Title": "True Tears", "img_url": "" }
+    ]
+},{
+  "Type": "Romatic Comedy",
+    "Anime": [
+          { "Title": "Ah! My Goddess!", "img_url": "" },
+      { "Title": "Bokura wa Minna Kawaisou", "img_url": "" },
+      { "Title": "Chuunibyou demo Koi ga Shitai!", "img_url": "" },
+      { "Title": "Fruits Basket", "img_url": "" },
+      { "Title": "Gekkan Shoujo Nozaki-kun", "img_url": "" },
+      { "Title": "High Score Girl", "img_url": "" },
+      { "Title": "Honey and Clover", "img_url": "" },
+      { "Title": "Love Hina", "img_url": "" },
+      { "Title": "Lovely★Complex", "img_url": "" },
+      { "Title": "Nodame Cantabile", "img_url": "" },
+      { "Title": "Ore Monogatari", "img_url": "" },
+      { "Title": "Oregairu", "img_url": "" },
+      { "Title": "Sakurasou no Pet na Kanojo", "img_url": "" },
+      { "Title": "School Rumble", "img_url": "" },
+      { "Title": "Toradora!", "img_url": "" },
+      { "Title": "Tsurezure Children", "img_url": "" },
+      { "Title": "The World God Only Knows", "img_url": "" },
+      { "Title": "Yamada-kun to 7-nin no Majo", "img_url": "" }
+    ]
+},{
+  "Type": "Harem",
+    "Anime": [
+     { "Title": "Bakemonogatari", "img_url": "" },
+      { "Title": "Clannad", "img_url": "" },
+      { "Title": "Date A Live", "img_url": "" },
+      { "Title": "Fushigi Yugi", "img_url": "" },
+      { "Title": "GJ-bu", "img_url": "" },
+      { "Title": "High School DxD", "img_url": "" },
+      { "Title": "Infinite Stratos", "img_url": "" },
+      { "Title": "Kore wa Zombie Desu ka?", "img_url": "" },
+      { "Title": "MM!", "img_url": "" },
+      { "Title": "Nisekoi", "img_url": "" },
+      { "Title": "Ouran High School Host Club", "img_url": "" },
+      { "Title": "The Quintessential Quintuplets", "img_url": "" },
+      { "Title": "Saenai Heroine no Sodatekata", "img_url": "" },
+      { "Title": "Saiunkoku Monogatari", "img_url": "" },
+      { "Title": "Seitokai no Ichizon", "img_url": "" },
+      { "Title": "Sekirei", "img_url": "" },
+      { "Title": "Shuffle!", "img_url": "" },
+      { "Title": "Sora no Otoshimono", "img_url": "" },
+      { "Title": "The World God Only Knows", "img_url": "" },
+      { "Title": "Uta no Prince-sama", "img_url": "" },
+      { "Title": "Yona of the Dawn", "img_url": "" }
+    ]
+},{
+  "Type": "Established Couple",
+    "Anime": [
+          { "Title": "Akagami no Shirayuki-hime", "img_url": "" },
+      { "Title": "Ano Natsu de Matteru", "img_url": "" },
+      { "Title": "Danna ga Nani wo Itteiru ka Wakaranai Ken", "img_url": "" },
+      { "Title": "Kare Kano", "img_url": "" },
+      { "Title": "Kimikiss Pure Rouge", "img_url": "" },
+      { "Title": "Kuzu no Honkai", "img_url": "" },
+      { "Title": "Honobono Log", "img_url": "" },
+      { "Title": "Itazura na Kiss", "img_url": "" },
+      { "Title": "Nazo no Kanojo X", "img_url": "" },
+      { "Title": "Ore Monogatari", "img_url": "" },
+      { "Title": "Onegai Teacher", "img_url": "" },
+      { "Title": "Paradise Kiss", "img_url": "" },
+      { "Title": "Seto no Hanayome", "img_url": "" },
+      { "Title": "Sukitte Ii na yo", "img_url": "" },
+      { "Title": "Tsuki ga Kirei", "img_url": "" }
+    ]
+},{
+  "Type": "Yaoi",
+    "Anime": [
+    { "Title": "Banana Fish", "img_url": "" },
+      { "Title": "Doukyuusei", "img_url": "" },
+      { "Title": "Given", "img_url": "" },
+      { "Title": "Gravitation", "img_url": "" },
+      { "Title": "Kono Danshi, Ningyo Hiroimashita", "img_url": "" },
+      { "Title": "Love Stage!", "img_url": "" },
+      { "Title": "Loveless", "img_url": "" },
+      { "Title": "No.6", "img_url": "" },
+      { "Title": "Yuri on Ice", "img_url": "" }
+    ]
+},{
+  "Type": "Yuri",
+    "Anime": [
+          { "Title": "Asagao to Kase-san.", "img_url": "" },
+      { "Title": "Aoi Hana", "img_url": "" },
+      { "Title": "Bloom Into You", "img_url": "" },
+      { "Title": "Candy☆Boy", "img_url": "" },
+      { "Title": "Cross Ange", "img_url": "" },
+      { "Title": "Happy Sugar Life", "img_url": "" },
+      { "Title": "Kuttsukiboshi", "img_url": "" },
+      { "Title": "Mai-Hime", "img_url": "" },
+      { "Title": "Maria-sama ga Miteru", "img_url": "" },
+      { "Title": "Sakura Trick", "img_url": "" },
+      { "Title": "Sasameki Koto", "img_url": "" },
+      { "Title": "Shoujo Kakumei Utena", "img_url": "" },
+      { "Title": "Simoun", "img_url": "" },
+      { "Title": "Strawberry Panic", "img_url": "" },
+      { "Title": "Yuri Kuma Arashi", "img_url": "" }
+    ]
+},{
+  "Type": "Action / Romance",
+    "Anime": [
+        { "Title": "Akatsuki no Yona", "img_url": "" },
+      { "Title": "Eureka Seven", "img_url": "" },
+      { "Title": "Guilty Crown", "img_url": "" },
+      { "Title": "Katanagatari", "img_url": "" },
+      { "Title": "Kemonozume", "img_url": "" },
+      { "Title": "Kyoukai no Kanata", "img_url": "" },
+      { "Title": "Macross Frontier", "img_url": "" },
+      { "Title": "Rose of Versailles", "img_url": "" },
+      { "Title": "Rurouni Kenshin", "img_url": "" },
+      { "Title": "Shakugan no Shana", "img_url": "" },
+      { "Title": "Sword Art Online", "img_url": "" },
+      { "Title": "Tokyo Ravens", "img_url": "" },
+      { "Title": "Zetsuen no Tempest", "img_url": "" }
+    ]
+},{
+  "Type": "Science-Fiction",
+    "Anime": [
+      { "Title": "Cowboy Bebop", "img_url": "" },
+      { "Title": "Heroic Age", "img_url": "" },
+      { "Title": "Kaiba", "img_url": "" },
+      { "Title": "Serial Experiments Lain", "img_url": "" },
+      { "Title": "Steins;Gate", "img_url": "" }
+    ]
+},{
+  "Type": "Apocalyptic Sci-Fi",
+    "Anime": [
+       { "Title": "Akira", "img_url": "" },
+      { "Title": "Dr. Stone", "img_url": "" },
+      { "Title": "Ergo Proxy", "img_url": "" },
+      { "Title": "Girls’ Last Tour", "img_url": "" },
+      { "Title": "Nausicaä of the Valley of the Wind", "img_url": "" },
+      { "Title": "Shinsekai Yori", "img_url": "" },
+      { "Title": "Sora no Woto", "img_url": "" }
+    ]
+},{
+  "Type": "Speculative Sci-Fi",
+    "Anime": [
+     { "Title": "Astra Lost in Space", "img_url": "" },
+      { "Title": "Eve no Jikan", "img_url": "" },
+      { "Title": "Ghost in the Shell", "img_url": "" },
+      { "Title": "Planetes", "img_url": "" },
+      { "Title": "Psycho-Pass", "img_url": "" },
+      { "Title": "Space Brothers", "img_url": "" }
+    ]
+},{
+  "Type": "Space Opera",
+    "Anime": [
+       { "Title": "Crest of the Stars", "img_url": "" },
+      { "Title": "Galaxy Express 999", "img_url": "" },
+      { "Title": "Legend of the Galactic Heroes", "img_url": "" },
+      { "Title": ">Macross", "img_url": "" },
+      { "Title": ">Mobile Suit Gundam 0079", "img_url": "" },
+      { "Title": "Space Battleship Yamato", "img_url": "" },
+      { "Title": "Space Pirate Captain Harlock", "img_url": "" }
+    ]
+},{
+  "Type": "Mecha",
+    "Anime": [
+          { "Title": "Aldnoah Zero", "img_url": "" },
+      { "Title": "Bokurano", "img_url": "" },
+      { "Title": "Code Geass", "img_url": "" },
+      { "Title": "Cross Ange", "img_url": "" },
+      { "Title": "Darling in the FranXX", "img_url": "" },
+      { "Title": "Escaflowne", "img_url": "" },
+      { "Title": "Eureka Seven", "img_url": "" },
+      { "Title": "Full Metal Panic", "img_url": "" },
+      { "Title": "Gunbuster", "img_url": "" },
+      { "Title": "Knights of Sidonia", "img_url": "" },
+      { "Title": "Macross Frontier", "img_url": "" },
+      { "Title": "Majestic Prince", "img_url": "" },
+      { "Title": "Martian Successor Nadesico", "img_url": "" },
+      { "Title": "Mobile Suit Gundam 0079", "img_url": "" },
+      { "Title": "Neon Genesis Evangelion", "img_url": "" },
+      { "Title": "Patlabor", "img_url": "" },
+      { "Title": "Shin Mazinger Z", "img_url": "" },
+      { "Title": "Soukyuu no Fafner", "img_url": "" },
+      { "Title": "Tenchi Muyo! War on Geminar", "img_url": "" },
+      { "Title": "Tengen Toppa Gurren Lagann", "img_url": "" },
+      { "Title": "Valvrave", "img_url": "" }
+    ]
+},{
+  "Type": "Slice of Life",
+    "Anime": [
+          { "Title": "Aiura", "img_url": "" },
+      { "Title": "Amaama to Inazuma", "img_url": "" },
+      { "Title": "Bokura wa Minna Kawaisou", "img_url": "" },
+      { "Title": "Fune wo Amu", "img_url": "" },
+      { "Title": "Genshiken", "img_url": "" },
+      { "Title": "Gin no Saji", "img_url": "" },
+      { "Title": "GJ-bu", "img_url": "" },
+      { "Title": "Great Teacher Onizuka", "img_url": "" },
+      { "Title": "Hanasaku Iroha", "img_url": "" },
+      { "Title": "Honobono Log", "img_url": "" },
+      { "Title": "Hyouka", "img_url": "" },
+      { "Title": "Ichigo Mashimaro", "img_url": "" },
+      { "Title": "Isshuukan Friends", "img_url": "" },
+      { "Title": "Kono Bijutsubu ni wa Mondai ga Aru!", "img_url": "" },
+      { "Title": "Kuma Miko", "img_url": "" },
+      { "Title": "Mangaka-san to Assistant-san", "img_url": "" },
+      { "Title": "The Melancholy of Haruhi Suzumiya", "img_url": "" },
+      { "Title": "Mikakunin de Shinkoukei", "img_url": "" },
+      { "Title": "Nichijou", "img_url": "" },
+      { "Title": "Shirobako", "img_url": "" },
+      { "Title": "Sore ga Seiyuu", "img_url": "" },
+      { "Title": "Tanaka-kun wa Itsumo Kedaruge", "img_url": "" },
+      { "Title": "Udon no Kuni no Kiniro Kemari", "img_url": "" },
+      { "Title": "Working!!", "img_url": "" },
+      { "Title": "Yama no Susume", "img_url": "" }
+    ]
+}
+,{
+  "Type": "Cute Girls",
+    "Anime": [
+          { "Title": "Azumanga Daioh", "img_url": "" },
+      { "Title": "Comic Girls", "img_url": "" },
+      { "Title": "Gochuumon wa Usagi desu ka?", "img_url": "" },
+      { "Title": "Hidamari Sketch", "img_url": "" },
+      { "Title": "K-On!", "img_url": "" },
+      { "Title": "Kiniro Mosaic", "img_url": "" },
+      { "Title": "Lucky☆Star", "img_url": "" },
+      { "Title": "New Game", "img_url": "" },
+      { "Title": "Sansha Sanyou", "img_url": "" },
+      { "Title": "Urara Meirochou", "img_url": "" },
+      { "Title": "Yuru Yuri", "img_url": "" }
+    ]
+},{
+  "Type": "Sport - Action",
+    "Anime": [
+      { "Title": "Eyeshield 21", "img_url": "" },
+      { "Title": "Girls und Panzer", "img_url": "" },
+      { "Title": "Haikyuu!!", "img_url": "" },
+      { "Title": "Hajime no Ippo", "img_url": "" },
+      { "Title": "Initial D", "img_url": "" },
+      { "Title": "Keijo!!!!!!!!", "img_url": "" },
+      { "Title": "Kuroko no Basket", "img_url": "" },
+      { "Title": "Megalo Box<", "img_url": "" },
+      { "Title": "Shakunetsu no Takkyuu Musume", "img_url": "" },
+      { "Title": "Slam Dunk", "img_url": "" }
+    ]
+}
+,{
+  "Type": "Sport - Drama",
+    "Anime": [
+     { "Title": "Baby Steps", "img_url": "" },
+      { "Title": "Chihayafuru", "img_url": "" },
+      { "Title": "Cross Game", "img_url": "" },
+      { "Title": "Diamond no Ace", "img_url": "" },
+      { "Title": "Free!", "img_url": "" },
+      { "Title": "Hikaru no", "img_url": "" },
+      { "Title": "Hoshiai no Sora", "img_url": "" },
+      { "Title": "Ping Pong the Animation", "img_url": "" },
+      { "Title": "One Outs", "img_url": "" },
+      { "Title": "Run with the Wind", "img_url": "" },
+      { "Title": "Tomorrow’s Joe", "img_url": "" },
+      { "Title": "Tsurune", "img_url": "" },
+      { "Title": "Yuri on Ice", "img_url": "" }
+    ]
+},
+{
+  "Type": "Sport - Slice of Life",
+    "Anime": [
+         { "Title": "Anima Yell!", "img_url": "" },
+      { "Title": "Girls und Panzer", "img_url": "" },
+      { "Title": "Harukana Receive", "img_url": "" },
+      { "Title": "How Heavy are the Dumbbells You Lift?", "img_url": "" },
+      { "Title": "Saki", "img_url": "" }
+    ]
+},{
+  "Type": "Thriller",
+    "Anime": [
+    
+      { "Title": "Boku dake ga Inai Machi", "img_url": "" },
+      { "Title": "Death Note", "img_url": "" },
+      { "Title": "Happy Sugar Life", "img_url": "" },
+      { "Title": "Kaiji", "img_url": "" },
+      { "Title": "Kara no Kyoukai", "img_url": "" },
+      { "Title": "Mirai Nikki", "img_url": "" },
+      { "Title": "Monster", "img_url": "" },
+      { "Title": "Neon Genesis Evangelion", "img_url": "" },
+      { "Title": "Paprika", "img_url": "" },
+      { "Title": "Perfect Blue", "img_url": "" },
+      { "Title": "The Promised Neverland", "img_url": "" },
+      { "Title": "Rainbow Nisha Rokubou no Shichinin", "img_url": "" },
+      { "Title": "Re:Zero kara Hajimeru Isekai Seikatsu", "img_url": "" },
+      { "Title": "Shinsekai Yori", "img_url": "" }
+    ]
+},{
+  "Type": "Horror",
+    "Anime": [
+    
+      { "Title": "Another", "img_url": "" },
+      { "Title": "Blue Gender", "img_url": "" },
+      { "Title": "Corpse Party Tortured Souls", "img_url": "" },
+      { "Title": "Ghost Hound", "img_url": "" },
+      { "Title": "Higurashi no Naku Koro ni", "img_url": "" },
+      { "Title": "Mononoke", "img_url": "" },
+      { "Title": "Paranoia Agent", "img_url": "" },
+      { "Title": "Requiem from the Darkness", "img_url": "" },
+      { "Title": "Shiki", "img_url": "" },
+      { "Title": "Yami Shibai", "img_url": "" }
+    ]
+},{
+  "Type": "Mystery",
+    "Anime": [
+      { "Title": "Baccano", "img_url": "" },
+      { "Title": "Death Parade", "img_url": "" },
+      { "Title": "Durarara", "img_url": "" },
+      { "Title": "ef: A Tale of Memories", "img_url": "" },
+      { "Title": "Gankutsuo", "img_url": "" },
+      { "Title": "Gosick", "img_url": "" },
+      { "Title": "Houseki no Kuni", "img_url": "" },
+      { "Title": "Kara no Kyouaki", "img_url": "" },
+      { "Title": "The Monogatari Series", "img_url": "" },
+      { "Title": "Rokka no Yusha", "img_url": "" }
+    ]
+},{
+  "Type": "Niches",
+    "Anime": [
+      { "Title": "Bakuman", "img_url": "" },
+      { "Title": "Comic Girls", "img_url": "" },
+      { "Title": "Gi(a)rlish Number", "img_url": "" },
+      { "Title": "Koe de Oshigoto!", "img_url": "" },
+      { "Title": "Sore ga Seiyuu", "img_url": "" },
+      { "Title": "Shirobako", "img_url": "" }
+    ]
+},{
+  "Type": "Arthouse",
+    "Anime": [
+          { "Title": "Angel&#39;s Egg", "img_url": "" },
+      { "Title": "Belladonna of Sadness", "img_url": "" },
+      { "Title": "FLCL", "img_url": "" },
+      { "Title": "Haibane Renmei", "img_url": "" },
+      { "Title": "Kyousougiga", "img_url": "" },
+      { "Title": "Le Portrait de Petit Cossette", "img_url": "" },
+      { "Title": "Mononoke", "img_url": "" },
+      { "Title": "Shoujo Kakumei Utena", "img_url": "" },
+      { "Title": "Texhnolyze", "img_url": "" },
+      { "Title": "The Tatami Galaxy", "img_url": "" },
+      { "Title": "Yurikuma Arashi", "img_url": "" }
+    ]
+},{
+  "Type": "Battle Royale",
+    "Anime": [
+    { "Title": "Btooom!", "img_url": "" },
+      { "Title": "Fate/Zero", "img_url": "" },
+      { "Title": "Fate/Stay Night: Unlimited Blade Works", "img_url": "" },
+      { "Title": "Granbelm", "img_url": "" },
+      { "Title": "Juuni Taisen", "img_url": "" },
+      { "Title": "Mirai Nikki", "img_url": "" },
+      { "Title": "Magical Girl Raising Project", "img_url": "" },
+      { "Title": "Sword Art Online Alternative: Gun Gale Online", "img_url": "" }
+    ]
+},{
+  "Type": "Food and Drink",
+    "Anime": [
+         { "Title": "Amaama to Inazuma", "img_url": "" },
+      { "Title": "Bartender", "img_url": "" },
+      { "Title": "Ben-To", "img_url": "" },
+      { "Title": "Cooking Master Boy", "img_url": "" },
+      { "Title": "Dagashi Kashi", "img_url": "" },
+      { "Title": "Isekai Shokudou", "img_url": "" },
+      { "Title": "Koufuku Graffiti", "img_url": "" },
+      { "Title": "Mister Ajikko", "img_url": "" },
+      { "Title": "Osake wa Fuufu ni Natte kara", "img_url": "" },
+      { "Title": "Ristorante Paradiso", "img_url": "" },
+      { "Title": "Shokugeki no Souma", "img_url": "" },
+      { "Title": "Shikioriori", "img_url": "" },
+      { "Title": "Toriko", "img_url": "" },
+      { "Title": "Wakako-zake", "img_url": "" },
+      { "Title": "Yakitate!! Japan", "img_url": "" }
+    ]
+},{
+  "Type": "Gender Bender",
+    "Anime": [
+      { "Title": "Kampfer", "img_url": "" },
+      { "Title": "Ore, Twintails ni Narimasu", "img_url": "" },
+      { "Title": "Mahou Shoujo Ore", "img_url": "" },
+      { "Title": "Simoun", "img_url": "" },
+      { "Title": "That Time I Was Reincarnated as a Slime", "img_url": "" },
+      { "Title": "Youjo Senki", "img_url": "" }
+    ]
+},{
+  "Type": "Idol Hell",
+    "Anime": [
+    
+      { "Title": "Aikatsu", "img_url": "" },
+      { "Title": "Ensemble Stars", "img_url": "" },
+      { "Title": "idolish 7", "img_url": "" },
+      { "Title": "The iDOLM@STER", "img_url": "" },
+      { "Title": "iDOLM@STER Side M", "img_url": "" },
+      { "Title": "Love Live! School Idol Project", "img_url": "" },
+      { "Title": "Love Live! Sunshine", "img_url": "" },
+      { "Title": "Show by Rock!", "img_url": "" },
+      { "Title": "Starmyu", "img_url": "" },
+      { "Title": "Wake Up, Girls!", "img_url": "" }
+    ]
+},{
+  "Type": "Music",
+    "Anime": [
+          { "Title": "Aki no Kanade", "img_url": "" },
+      { "Title": "AKB0048 First Stage", "img_url": "" },
+      { "Title": "Bang Dream!", "img_url": "" },
+      { "Title": "Beck", "img_url": "" },
+      { "Title": "Detroit Metal City", "img_url": "" },
+      { "Title": "Hibike! Euphonium", "img_url": "" },
+      { "Title": "K-On!", "img_url": "" },
+      { "Title": "Macross Frontier</a> (any Macr", "img_url": "" },
+      { "Title": "Nana", "img_url": "" },
+      { "Title": "Nodame Cantabile", "img_url": "" },
+      { "Title": "Sakamichi no Apollon", "img_url": "" },
+      { "Title": "Shigatsu wa Kimi no Uso", "img_url": "" },
+      { "Title": "Shoujo☆Kageki Revue Starlight", "img_url": "" },
+      { "Title": "Sora no Woto", "img_url": "" },
+      { "Title": "Symphogear", "img_url": "" }
+    ]
+},{
+  "Type": "Parenthood",
+    "Anime": [
+    
+      { "Title": "Hinamatsuri", "img_url": "" },
+      { "Title": "Maquia: When the Promised Flower Blooms ", "img_url": "" },
+      { "Title": "Poco’s Udon World", "img_url": "" },
+      { "Title": "Sweetness and Lightning", "img_url": "" },
+      { "Title": "Usagi Drop", "img_url": "" },
+      { "Title": "Wolf Children", "img_url": "" }
+      
+    ]
+},{
+  "Type": "Magical Girl",
+    "Anime": [
+     { "Title": "Cardcaptor Sakura", "img_url": "" },
+      { "Title": "The Demon Girl Next Door", "img_url": "" },
+      { "Title": "Flip Flappers", "img_url": "" },
+      { "Title": "Futari wa Precure", "img_url": "" },
+      { "Title": "Heartcatch Precure", "img_url": "" },
+      { "Title": "Houkago no Pleiades", "img_url": "" },
+      { "Title": "Kill la Kill", "img_url": "" },
+      { "Title": "Kore wa Zombie desu ka?", "img_url": "" },
+      { "Title": "Mahou Shoujo Lyrical Nanoha", "img_url": "" },
+      { "Title": "Mahou Shoujo Madoka★Magica", "img_url": "" },
+      { "Title": "Milky Momo", "img_url": "" },
+      { "Title": "Ojamajo Doremi", "img_url": "" },
+      { "Title": "Panty and Stocking<", "img_url": "" },
+      { "Title": "Princess Tutu", "img_url": "" },
+      { "Title": "Re: Cutie Honey", "img_url": "" },
+      { "Title": "Sailor Moon", "img_url": "" },
+      { "Title": "Shoujo Kakumei Utena", "img_url": "" },
+      { "Title": "Yuuki Yuuna wa Yuusha de Aru", "img_url": "" }
+    ]
+},{
+  "Type": "Incest",
+    "Anime": [
+       { "Title": "Candy☆Boy", "img_url": "" },
+      { "Title": "Eromanga Sensei", "img_url": "" },
+      { "Title": "Kiss x Sis", "img_url": "" },
+      { "Title": "Kono Naka ni Hitori, Imouto ga Iru!", "img_url": "" },
+      { "Title": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne", "img_url": "" },
+      { "Title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai", "img_url": "" },
+      { "Title": "Koi Kaze", "img_url": "" },
+      { "Title": "Myself ; Yourself", "img_url": "" },
+      { "Title": "Selector Infected WIXOSS", "img_url": "" },
+      { "Title": "Yosuga no Sora", "img_url": "" }
+    ]
+},{
+  "Type": "Mindfuck",
+    "Anime": [
+    
+      { "Title": "Ergo Proxy", "img_url": "" },
+      { "Title": "Ghost Hound", "img_url": "" },
+      { "Title": "Grave of the Fireflies", "img_url": "" },
+      { "Title": "Kaiba", "img_url": "" },
+      { "Title": "Mawaru Penguindrum", "img_url": "" },
+      { "Title": "Mind Game", "img_url": "" },
+      { "Title": "Neon Genesis Evangelion", "img_url": "" },
+      { "Title": "Paranoia Agent", "img_url": "" },
+      { "Title": "Perfect Blue", "img_url": "" },
+      { "Title": "Serial Experiments Lain", "img_url": "" },
+      { "Title": "Texhnolyze", "img_url": "" },
+      { "Title": "Tokyo Magnitude", "img_url": "" },
+      { "Title": "Yuri Kuma Arashi", "img_url": "" }
+    ]
+},{
+  "Type": "Mind Games",
+    "Anime": [
+    
+      { "Title": "Code Geass", "img_url": "" },
+      { "Title": "Death Note", "img_url": "" },
+      { "Title": "Gamers", "img_url": "" },
+      { "Title": "Kaguya-sama", "img_url": "" },
+      { "Title": "Kakegurui", "img_url": "" },
+      { "Title": "Kaiji", "img_url": "" },
+      { "Title": "No Game, No Life", "img_url": "" },
+      { "Title": "One Outs", "img_url": "" },
+      { "Title": "Karakai Jouzu no Takagi-san", "img_url": "" }
+    ]
+},{
+  "Type": "Character Archetypes",
+    "Anime": [
+    
+      { "Title": "Bakemonogatari", "img_url": "" },
+      { "Title": "Grisaia no Kajitsu", "img_url": "" },
+      { "Title": "High School DxD", "img_url": "" },
+      { "Title": "Monster Musume", "img_url": "" },
+      { "Title": "Oresuki: Are you the only one who loves me?", "img_url": "" },
+      { "Title": "Saenai Heroine", "img_url": "" },
+      { "Title": "School Days", "img_url": "" },
+      { "Title": "Seitokai no Ichizon", "img_url": "" },
+      { "Title": "Trinity Seven", "img_url": "" },
+      { "Title": "The World God Only Knows", "img_url": "" },
+      { "Title": "Yosuga no Sora", "img_url": "" }
+    ]
+},{
+  "Type": "Anti-hero",
+    "Anime": [
+      { "Title": "Black Lagoon", "img_url": "" },
+      { "Title": "Code Geass", "img_url": "" },
+      { "Title": "Darker than Black", "img_url": "" },
+      { "Title": "Death Note", "img_url": "" },
+      { "Title": "Fate/Zero", "img_url": "" },
+      { "Title": "Hellsing Ultimate", "img_url": "" },
+      { "Title": "Mirai Nikki", "img_url": "" }
+    ]
+},
+{
+  "Type": "Violet",
+    "Anime": [
+     { "Title": "Code Geass", "img_url": "" },
+      { "Title": "Fate/Stay Night: Unlimited Blade Works", "img_url": "" },
+      { "Title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai", "img_url": "" },
+      { "Title": "The Quintessential Quintuplets", "img_url": "" },
+      { "Title": "Spice and Wolf", "img_url": "" },
+      { "Title": "Steins;Gate", "img_url": "" }
+    ]
+},{
+  "Type": "Yandere",
+    "Anime": [
+    
+      { "Title": "A Certain Scientific Railgun", "img_url": "" },
+      { "Title": "Clannad", "img_url": "" },
+      { "Title": "The Familiar of Zero", "img_url": "" },
+      { "Title": "The Melancholy of Haruhi Suzumiya", "img_url": "" },
+      { "Title": "The Monogatari Series", "img_url": "" },
+      { "Title": "Neon Genesis Evangelion", "img_url": "" },
+      { "Title": "Nisekoi", "img_url": "" },
+      { "Title": "Toradora", "img_url": "" }
+    ]
+},{
+  "Type": "College",
+    "Anime": [
+          { "Title": "Genshiken", "img_url": "" },
+      { "Title": "Golden Time", "img_url": "" },
+      { "Title": "Grand Blue", "img_url": "" },
+      { "Title": "Honey and Clover", "img_url": "" },
+      { "Title": "Love Hina", "img_url": "" },
+      { "Title": "Maison Ikkoku", "img_url": "" },
+      { "Title": "Nodame Cantabile", "img_url": "" },
+      { "Title": "The Tatami Galaxy", "img_url": "" }
+    ]
+},{
+  "Type": "Cyberpunk",
+    "Anime": [
+    
+      { "Title": "Akira", "img_url": "" },
+      { "Title": "Dennou Coil", "img_url": "" },
+      { "Title": "Eve no Jikan (Movie)", "img_url": "" },
+      { "Title": "Ghost in the Shell", "img_url": "" },
+      { "Title": "Metropolis", "img_url": "" },
+      { "Title": "Psycho-Pass", "img_url": "" },
+      { "Title": "Summer Wars", "img_url": "" },
+      { "Title": "Texhnolyze", "img_url": "" }
+    ]
+},{
+  "Type": "Dystopia",
+    "Anime": [
+       { "Title": "Akira", "img_url": "" },
+      { "Title": "Darling in the FranXX", "img_url": "" },
+      { "Title": "From the New World", "img_url": "" },
+      { "Title": "Ghost in the Shell", "img_url": "" },
+      { "Title": "The Promised Neverland", "img_url": "" },
+      { "Title": "Psycho-Pass", "img_url": "" },
+      { "Title": "Scrapped Princess", "img_url": "" }
+      
+    ]
+},{
+  "Type": "Post-Apocolyptic",
+    "Anime": [
+    
+      { "Title": "Dr. Stone", "img_url": "" },
+      { "Title": "Girls’ Last Tour", "img_url": "" },
+      { "Title": "Nausicaä of the Valley of the Wind", "img_url": "" },
+      { "Title": "Neon Genesis Evangelion", "img_url": "" },
+      { "Title": "Sora no Woto", "img_url": "" },
+      { "Title": "Sukasuka", "img_url": "" },
+      { "Title": "Tokyo Magnitude 8.0", "img_url": "" }
+    ]
+},{
+  "Type": "Workplace",
+    "Anime": [
+        { "Title": "Bartender", "img_url": "" },
+      { "Title": "Denki-gai no Honya-san", "img_url": "" },
+      { "Title": "Gi(a)rlish Number", "img_url": "" },
+      { "Title": "The Great Passage", "img_url": "" },
+      { "Title": "Hataraki Man", "img_url": "" },
+      { "Title": "Hataraku Maou-sama!", "img_url": "" },
+      { "Title": "Hanasaku Iroha", "img_url": "" },
+      { "Title": "Koe de Oshigoto!", "img_url": "" },
+      { "Title": "Mangaka-san to Assistant-san", "img_url": "" },
+      { "Title": "New Game", "img_url": "" },
+      { "Title": "Planetes", "img_url": "" },
+      { "Title": "Ristorante Paradiso", "img_url": "" },
+      { "Title": "Servant x Service", "img_url": "" },
+      { "Title": "Shirobako", "img_url": "" },
+      { "Title": "Sore ga Seiyuu", "img_url": "" },
+      { "Title": "Working!!", "img_url": "" },
+      { "Title": "Yuushibu", "img_url": "" }
+    ]
+},{
+  "Type": "Technical Characteristics",
+    "Anime": [
+      { "Title": "Aku no Hana", "img_url": "" },
+      { "Title": "Gankutsuou", "img_url": "" },
+      { "Title": "Girls’ Last Tour", "img_url": "" },
+      { "Title": "Jinrui wa Suitai Shimashita", "img_url": "" },
+      { "Title": "Katanagatari", "img_url": "" },
+      { "Title": "Panty &amp; Stocking with Garterbelt", "img_url": "" },
+      { "Title": "Mahou Shoujo Madoka★Magica", "img_url": "" },
+      { "Title": "Monogatari", "img_url": "" },
+      { "Title": "Mononoke", "img_url": "" },
+      { "Title": "Ping Pong the Animation", "img_url": "" },
+      { "Title": "Redline", "img_url": "" },
+      { "Title": "Sayonara Zetsubou Sensei", "img_url": "" },
+      { "Title": "Shingeki no Kyojin", "img_url": "" },
+      { "Title": "The Tatami Galaxy", "img_url": "" }
+
+    ]
+}
+  
+]

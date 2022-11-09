@@ -1,0 +1,85 @@
+{
+  "anime60fps": [
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=k6LF6c3Ar7TCYAxbXqB",
+      "iframe": true,
+      "episode_number": 1
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840grc",
+      "iframe": true,
+      "episode_number": 2
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840grb",
+      "iframe": true,
+      "episode_number": 3
+    },
+
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840hug",
+      "iframe": true,
+      "episode_number": 4
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840hue",
+      "iframe": true,
+      "episode_number": 5
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840k5z",
+      "iframe": true,
+      "episode_number": 6
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840k5y",
+      "iframe": true,
+      "episode_number": 7
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x840k5x",
+      "iframe": true,
+      "episode_number": 8
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841n8v",
+      "iframe": true,
+      "episode_number": 9
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841n8u",
+      "iframe": true,
+      "episode_number": 10
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841n8t",
+      "iframe": true,
+      "episode_number": 11
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841ncg",
+      "iframe": true,
+      "episode_number": 12
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841ncf",
+      "iframe": true,
+      "episode_number": 13
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x841nce",
+      "iframe": true,
+      "episode_number": 14
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x842mih",
+      "iframe": true,
+      "episode_number": 15
+    },
+    {
+      "src": "https://geo.dailymotion.com/player/x6qq2.html?video=x842mig",
+      "iframe": true,
+      "episode_number": 16
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/86-01-DUB-1080p60/7989e8f9213f053501473b0f55e0ec7d5e587c94/f46602",
+        "iframe": false,
+        "episode_number": 1
+      },
+      {
+        "src": "https://siasky.net/EAAIdGr_BklfmFz9ThGAV6kwP1OGOkhyhuS0jbyCAGo-og",
+        "iframe": false,
+        "episode_number": 2
+      },
+      {
+        "src": "https://siasky.net/EABHqUibwrAYt3croQCoM0PVSklto_HOqLXZE3YGXV0hpA",
+        "iframe": false,
+        "episode_number": 3
+      },
+      {
+        "src": "https://siasky.net/EAB8xtKaGYxj1X6j4GY4pkHrSoFPd6cITjug188UrK5Iww",
+        "iframe": false,
+        "episode_number": 4
+      },
+      {
+        "src": "https://siasky.net/EAAgfaDx4CwnH-lm8rReUGD_sM-h0qRnrLQX03zPbF4X3w",
+        "iframe": false,
+        "episode_number": 5
+      },
+      {
+        "src": "https://siasky.net/EAB8TpzN9ilMqSXLSEvXRCKGedezPUjTBF8NvKauzsWNAg",
+        "iframe": false,
+        "episode_number": 6
+      },
+      {
+        "src": "https://siasky.net/EABDNMVWTRyDLVr_Ndr2p7O6P8Q7Z-6nmHwhEYZ28jxsGQ",
+        "iframe": false,
+        "episode_number": 7
+      },
+      {
+        "src": "https://siasky.net/EAAQ9PSGnNeOKZ71DkYbrBf8wVbmRTR3apCM7weITTAjJQ",
+        "iframe": false,
+        "episode_number": 8
+      },
+      {
+        "src": "https://siasky.net/GAA5phcNmGEqtPDjTqUr7FFtqsI6FzlVHBsFWe_EWOxKoQ",
+        "iframe": false,
+        "episode_number": 9
+      },
+      {
+        "src": "https://siasky.net/GACmZ-ozyHOc13R14pUkQsTUEsRNzWiniPqjzO4fTVfiJw",
+        "iframe": false,
+        "episode_number": 10
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/86-11-DUB-1080p60/86c33a8955d7a46b00c735d61c700c65784b7955/f46602",
+        "iframe": false,
+        "episode_number": 11
+      }
+    ]
+  }
+  

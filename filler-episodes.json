@@ -1,0 +1,366 @@
+[
+  {
+    "animeTitle": "Toaru Kagaku no Accelerator",
+    "fillerEpisodes": ["1"]
+  },
+  {
+    "animeTitle": "Toaru Kagaku No Railgun",
+    "fillerEpisodes": ["3, 13-14, 17-19, 31, 41-48"]
+  },
+  {
+    "animeTitle": "Gyakuten Saiban",
+    "fillerEpisodes": ["13, 30, 34-36, 38"]
+  },
+  { "animeTitle": "Ace of the Diamond", "fillerEpisodes": ["28, 76-78"] },
+  { "animeTitle": "Ace of the Diamond: Act II", "fillerEpisodes": ["29"] },
+  { "animeTitle": "Angel Heart", "fillerEpisodes": ["24"] },
+  { "animeTitle": "Another", "fillerEpisodes": ["8"] },
+  { "animeTitle": "Attack on Titan OADs", "fillerEpisodes": ["2-3"] },
+  {
+    "animeTitle": "Beelzebub",
+    "fillerEpisodes": ["11-15, 17, 27-28, 34, 39, 49, 52-57"]
+  },
+  { "animeTitle": "Beyblade Burst", "fillerEpisodes": ["6, 10"] },
+  {
+    "animeTitle": "Kuroshitsuji",
+    "fillerEpisodes": ["7-12, 16-36"]
+  },
+  { "animeTitle": "Black Cat", "fillerEpisodes": ["21-24"] },
+  {
+    "animeTitle": "Black Clover",
+    "fillerEpisodes": ["29, 66, 68, 82, 123-125, 131, 134-135, 142-148"]
+  },
+  {
+    "animeTitle": "Bleach",
+    "fillerEpisodes": [
+      "33, 50, 64-108, 128-137, 147-149, 168-189, 204-205, 213-214, 228-266, 287, 298-299, 303-305, 311-341, 355"
+    ]
+  },
+  {
+    "animeTitle": "Ao no Exorcist",
+    "fillerEpisodes": ["6, 11, 18-25"]
+  },
+  {
+    "animeTitle": "Boruto: Naruto Next Generations",
+    "fillerEpisodes": [
+      "16-17, 40-41, 49-50, 67-69, 96-97, 112-114, 116-119, 138-140, 152-153, 156"
+    ]
+  },
+  { "animeTitle": "Bungo Stray Dogs", "fillerEpisodes": ["6-7"] },
+  { "animeTitle": "Campione!", "fillerEpisodes": ["2, 5, 13"] },
+  {
+    "animeTitle": "Cardcaptor Sakura",
+    "fillerEpisodes": ["12-15, 19-24, 27-34, 36-38, 40, 43, 53, 55-58, 60-64"]
+  },
+  {
+    "animeTitle": "Detective Conan",
+    "fillerEpisodes": [
+      "6, 14, 17, 19, 21, 24-26, 29-30, 33, 36-37, 41, 44-45, 47, 51, 53, 55-56, 59, 61-62, 64-67, 71, 73-74, 79-80, 83, 87-90, 92-95, 97, 106-111, 119-120, 123-127, 135, 140, 143, 148-152, 155, 158-161, 165, 169, 175, 179-187, 196-198, 201-204, 207-211, 214-216, 225, 232, 235-237, 245, 248, 251-252, 255-257, 260-262, 264-265, 273, 276, 281-283, 294-300, 303, 314-315, 318-322, 328, 337, 342, 348-349, 352-353, 357, 360, 363-365, 368-370, 373, 376-380, 384, 388-389, 392-393, 397, 403-405, 409-410, 413-414, 418-420, 423-424, 426, 433-434, 437, 439-442, 448, 450-452, 456, 459, 461, 468, 471, 475, 478, 480, 483, 486, 489, 512, 518-520, 527, 536, 539-541, 544, 547-548, 553-556, 562, 565-567, 570, 577, 582, 588, 591, 594-596, 599, 602-607, 629-631, 634-641, 658, 663-666, 669-670, 677-680, 686-689, 692-698, 707-709, 716-721, 726, 729-730, 733, 735-737, 742-743, 750, 753, 757-758, 761-762, 767-769, 774-778, 784, 789-791, 794-807, 813, 816-821, 824-826, 829, 833-835, 838-842, 845-846, 851-852, 855-860, 865, 868-871, 875-877, 880, 883-884, 891-893, 898-900, 903-908, 911-915, 918, 921-924, 929-940, 943-951, 955-970, 975-982, 985-992, 996-999, 1002, 1006-1010, 1013-1017, 1021-1023, 1026-1028, 1030-1032, 1036-1037, 1039-1041, 1043-1044, 1047-1049"
+    ]
+  },
+  { "animeTitle": "City Hunter", "fillerEpisodes": ["2"] },
+  { "animeTitle": "Clannad", "fillerEpisodes": ["13-14, 16-18"] },
+  { "animeTitle": "Claymore", "fillerEpisodes": ["24-26"] },
+  {
+    "animeTitle": "D.Gray-man",
+    "fillerEpisodes": ["14-18, 25, 27, 29-36, 41-50"]
+  },
+  { "animeTitle": "Devilman Crybaby", "fillerEpisodes": ["3-6"] },
+  {
+    "animeTitle": "Dragon Ball",
+    "fillerEpisodes": ["30-33, 45, 79-83, 127-132, 149-153"]
+  },
+  { "animeTitle": "Dragon Ball GT", "fillerEpisodes": ["1-65"] },
+  {
+    "animeTitle": "Dragon Ball Super",
+    "fillerEpisodes": ["4, 15, 42-46, 68-70, 73-76"]
+  },
+  {
+    "animeTitle": "Dragon Ball Z",
+    "fillerEpisodes": [
+      "9-10, 12-16, 39-43, 100, 102, 108-117, 124-125, 170-171, 174, 195-199, 202-203, 274, 288"
+    ]
+  },
+  { "animeTitle": "Dragon Ball Z Kai", "fillerEpisodes": ["101, 165"] },
+  { "animeTitle": "Elemental Gelade", "fillerEpisodes": ["5"] },
+  { "animeTitle": "Excel Saga", "fillerEpisodes": ["1-26"] },
+  {
+    "animeTitle": "Fairy Tail",
+    "fillerEpisodes": ["9, 19, 50, 70-75, 125-150, 202-226, 268"]
+  },
+  {
+    "animeTitle": "Fate/Kaleid Liner Prisma Illya",
+    "fillerEpisodes": ["23-25"]
+  },
+  { "animeTitle": "Fate/stay night", "fillerEpisodes": ["6, 17-18"] },
+  {
+    "animeTitle": "Hajime no Ippo",
+    "fillerEpisodes": ["31, 52"]
+  },
+  {
+    "animeTitle": "Fist of the North Star",
+    "fillerEpisodes": ["9-10, 14-21, 38, 41, 79-82, 98, 105, 109, 111"]
+  },
+  { "animeTitle": "Full Metal Panic!", "fillerEpisodes": ["13-15, 19, 25-36"] },
+  { "animeTitle": "Fullmetal Alchemist", "fillerEpisodes": ["4, 10, 37"] },
+  {
+    "animeTitle": "Fullmetal Alchemist: Brotherhood",
+    "fillerEpisodes": ["27"]
+  },
+  { "animeTitle": "GANTZ", "fillerEpisodes": ["22-26"] },
+  { "animeTitle": "Ghost in the Shell: Arise", "fillerEpisodes": ["9-10"] },
+  {
+    "animeTitle": "Gintama",
+    "fillerEpisodes": [
+      "1-2, 50, 57, 75, 106, 114, 124-125, 135, 137, 150, 155, 164, 166, 171, 173-174, 176, 185, 209, 252"
+    ]
+  },
+  { "animeTitle": "Goblin Slayer", "fillerEpisodes": ["5, 10"] },
+  {
+    "animeTitle": "Great Teacher Onizuka",
+    "fillerEpisodes": ["23, 25-28, 34, 42-43"]
+  },
+  { "animeTitle": "GURREN LAGANN", "fillerEpisodes": ["16"] },
+  { "animeTitle": "Handa-kun", "fillerEpisodes": ["9"] },
+  {
+    "animeTitle": "Hayate no Gotoku!",
+    "fillerEpisodes": ["18-19, 26-28, 30-31, 33-39, 41, 45-46, 48, 50-51, 77"]
+  },
+  { "animeTitle": "Hellsing", "fillerEpisodes": ["4, 8-9, 11-13"] },
+  { "animeTitle": "Highschool DxD", "fillerEpisodes": ["34-36"] },
+  { "animeTitle": "Hikaru no Go", "fillerEpisodes": ["64, 66"] },
+  { "animeTitle": "Hunter × Hunter", "fillerEpisodes": ["2, 7, 18-20"] },
+  { "animeTitle": "Hunter × Hunter (2011)", "fillerEpisodes": ["13, 26"] },
+  {
+    "animeTitle": "Inuyasha",
+    "fillerEpisodes": [
+      "59, 65, 68, 72, 75-79, 89-101, 129-130, 133-134, 136-140, 162-163"
+    ]
+  },
+  { "animeTitle": "Lupin the Third Part I", "fillerEpisodes": ["1, 23"] },
+  {
+    "animeTitle": "Magic Knight Rayearth",
+    "fillerEpisodes": ["7-9, 11, 14, 17, 24-25, 28-31, 33-37, 41, 46, 48"]
+  },
+  { "animeTitle": "Miss Kobayashi's Dragon Maid", "fillerEpisodes": ["9-11"] },
+  {
+    "animeTitle": "Kidou Senshi Gundam",
+    "fillerEpisodes": ["15"]
+  },
+  {
+    "animeTitle": "Kidou Senshi Gundam ZZ",
+    "fillerEpisodes": ["1"]
+  },
+  {
+    "animeTitle": "Boku no Hero Academia",
+    "fillerEpisodes": ["39, 58, 64, 104"]
+  },
+  { "animeTitle": "My Hero Academia Movies", "fillerEpisodes": ["2-3"] },
+  {
+    "animeTitle": "Bakarina",
+    "fillerEpisodes": ["7-9, 18-20"]
+  },
+  {
+    "animeTitle": "Fushigi no Umi no Nadia",
+    "fillerEpisodes": ["24, 26, 29, 32-34"]
+  },
+  {
+    "animeTitle": "Naruto",
+    "fillerEpisodes": ["26, 97, 101-106, 136-140, 143-219"]
+  },
+  {
+    "animeTitle": "Naruto Shippuden",
+    "fillerEpisodes": [
+      "57-70, 91-111, 144-151, 170-171, 176-196, 223-242, 257-260, 271, 279-281, 284-295, 303-320, 347-361, 376-377, 388-390, 394-413, 416-417, 422-423, 427-450, 464-468, 480-483"
+    ]
+  },
+  {
+    "animeTitle": "Naruto the Movie: Legend of the Stone of Gelel",
+    "fillerEpisodes": ["1"]
+  },
+  {
+    "animeTitle": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "fillerEpisodes": ["1"]
+  },
+  {
+    "animeTitle": "Mahou Sensei Negima!",
+    "fillerEpisodes": ["23-26"]
+  },
+  {
+    "animeTitle": "One Piece",
+    "fillerEpisodes": [
+      "54-60, 98-99, 102, 131-143, 196-206, 220-226, 279-283, 291-292, 303, 317-319, 326-336, 382-384, 406-407, 426-429, 457-458, 492, 542, 575-578, 590, 626-627, 747-750, 780-782, 895-896, 907"
+    ]
+  },
+  { "animeTitle": "One Piece", "fillerEpisodes": ["2-3"] },
+  { "animeTitle": "Outlaw Star", "fillerEpisodes": ["13-14, 16, 18-20"] },
+  {
+    "animeTitle": "Pokémon",
+    "fillerEpisodes": [
+      "8-9, 19, 32-33, 37-39, 44, 46, 49, 51, 54, 57, 59, 62, 64-67, 69-70, 84-89, 93, 95-97, 100, 103, 105, 116, 118-119, 123-124, 129, 131, 133-136, 144-146, 148-149, 151-152, 158-160, 162-164, 166, 168-169, 173-176, 180-182, 184, 186-189, 191, 193-194, 196-203, 207-208, 210, 214-215, 225, 228-230, 235-242, 244-245, 251, 255, 257, 278-280, 290, 295, 298, 306, 311, 314-315, 318, 322, 326, 329, 333-334, 336, 344-345, 355, 357-358, 361, 363, 365, 371, 373, 375-376, 378, 381, 405-406, 408-410, 413-414, 420, 433-434, 436, 441, 444, 451-453, 456, 467, 483-484, 499, 502-503, 515-518, 529, 562, 574-575, 583, 593, 606-607, 616, 631, 657, 675, 678-679, 684, 702-704, 715, 737, 744, 747-748, 774, 776, 778, 781-782, 787, 799, 805-807, 809, 817, 819, 836, 839, 841, 862, 873-874, 877, 880, 886-889, 899, 902, 908, 914-915, 938, 943, 948, 955, 960-961, 989, 1002, 1014, 1017, 1024, 1044, 1057"
+    ]
+  },
+  {
+    "animeTitle": "Pokémon Advanced Generation",
+    "fillerEpisodes": [
+      "9-10, 29, 37-38, 42-43, 46, 49, 52, 64-65, 67, 75-76, 81, 88, 94, 104, 107, 109, 112, 136-137, 139-141, 145, 164-165, 167, 172, 182-184"
+    ]
+  },
+  {
+    "animeTitle": "Pokémon Diamond and Pearl",
+    "fillerEpisodes": ["21, 23-24, 39, 42-43, 55-58, 69, 91"]
+  },
+  {
+    "animeTitle": "Pokémon: Original series",
+    "fillerEpisodes": [
+      "8, 20, 34, 37-38, 41-42, 47, 54, 60, 68-69, 73, 89-93, 99, 101-102, 105, 110, 123-124, 126, 129, 134, 136, 138-140, 149-151, 154, 156-157, 163, 163, 165, 167-168, 171, 173-175, 178, 180-181, 185-187, 191-193, 196, 198-199, 203-204, 206, 206, 208, 212-213, 219, 233-235, 240, 244-245, 247, 249, 256, 260"
+    ]
+  },
+  {
+    "animeTitle": "Ranma 1/2",
+    "fillerEpisodes": [
+      "17, 21, 46, 48-52, 54, 56-60, 62-64, 66, 70-71, 73-74, 77-78, 81, 83-84, 86-87, 90-92, 94, 97-104, 108-109, 111-120, 123-124, 127, 134-135, 137-140, 145, 147-148, 150, 152-153, 156-159"
+    ]
+  },
+  {
+    "animeTitle": "Groove Adventure Rave",
+    "fillerEpisodes": ["41"]
+  },
+  {
+    "animeTitle": "Katekyo Hitman Reborn!",
+    "fillerEpisodes": ["56, 97, 119, 142-154, 177-189"]
+  },
+  {
+    "animeTitle": "Rosario + Vampire",
+    "fillerEpisodes": ["4, 15-19, 21-23, 25-26"]
+  },
+  {
+    "animeTitle": "Rurouni Kenshin",
+    "fillerEpisodes": ["13-18, 22, 25-27, 63-78, 83-94, 99-100"]
+  },
+  {
+    "animeTitle": "Bishoujo Sailor Moon",
+    "fillerEpisodes": [
+      "2-7, 9, 11-12, 15-18, 20-21, 26-32, 37-41, 43, 47-59, 63-67, 69, 78-80, 89, 94-100, 104, 107-108, 114, 116-118, 127, 129, 131-132, 134, 136-142, 144-147, 151-157, 159, 175-178, 183-186, 192"
+    ]
+  },
+  {
+    "animeTitle": "Saint Seiya",
+    "fillerEpisodes": ["16-22, 26, 33-35, 54-55, 64, 74-99"]
+  },
+  {
+    "animeTitle": "Keroro Gunsou",
+    "fillerEpisodes": [
+      "23, 33, 37-38, 44, 47, 52-54, 57, 59-70, 72-79, 83-84, 86-93, 95-96, 99-100, 104-108, 111, 114-115, 117-121, 123-126, 128-131, 134-135, 137-140, 143-148, 150, 152-155, 157-159, 161-172, 174, 176-177, 179, 181-182, 184-190, 192-194, 196-227, 229-235, 237-239, 241-242, 244-255, 258-273, 275-281, 283-322, 324-333, 343-344, 346-356"
+    ]
+  },
+  {
+    "animeTitle": "Shugo Chara",
+    "fillerEpisodes": [
+      "14-16, 19-20, 24, 35, 46-48, 57-58, 60, 63, 66, 68, 72, 84-86, 103-127"
+    ]
+  },
+  { "animeTitle": "SKET Dance", "fillerEpisodes": ["26, 32"] },
+  {
+    "animeTitle": "Slam Dunk",
+    "fillerEpisodes": ["47, 85-86, 92, 95, 97-101"]
+  },
+  { "animeTitle": "Soul Eater", "fillerEpisodes": ["17"] },
+  { "animeTitle": "Hoshin Engi", "fillerEpisodes": ["16-26"] },
+  { "animeTitle": "Steins;Gate", "fillerEpisodes": ["25"] },
+  { "animeTitle": "Super Dragon Ball Heroes", "fillerEpisodes": ["29"] },
+  {
+    "animeTitle": "Tensei shitara Slime Datta Ken",
+    "fillerEpisodes": ["24"]
+  },
+  {
+    "animeTitle": "Gakusen no Asterisk",
+    "fillerEpisodes": ["8"]
+  },
+  {
+    "animeTitle": "Suzumiya Haruhi no Yuuutsu",
+    "fillerEpisodes": ["12-19, 28"]
+  },
+  {
+    "animeTitle": "Tennis no Ouji-sama",
+    "fillerEpisodes": ["21, 24, 64, 70-75, 87-90, 98-104, 106-116, 129-176"]
+  },
+  {
+    "animeTitle": "Nanatsu no Taizai",
+    "fillerEpisodes": ["25-28"]
+  },
+  {
+    "animeTitle": "To Love Ru",
+    "fillerEpisodes": ["2, 4-5, 7-10, 12-16, 18-26"]
+  },
+  {
+    "animeTitle": "Tokyo Mew Mew",
+    "fillerEpisodes": ["5-6, 8-9, 14-16, 20, 22-24, 29-35, 39, 42-43"]
+  },
+  {
+    "animeTitle": "Toriko",
+    "fillerEpisodes": [
+      "1, 42-43, 51, 69-70, 80-82, 86, 99, 112-113, 124-125, 130-131, 136, 146-147"
+    ]
+  },
+  {
+    "animeTitle": "Trigun",
+    "fillerEpisodes": ["1-3, 6, 10-11, 13, 16-17, 19-26"]
+  },
+  {
+    "animeTitle": "Urusei Yatsura",
+    "fillerEpisodes": [
+      "71, 75, 78, 84, 93, 95, 98-101, 103-107, 112, 118, 126, 138, 143"
+    ]
+  },
+  { "animeTitle": "Yu Yu Hakusho", "fillerEpisodes": ["114"] },
+  { "animeTitle": "Yu-Gi-Oh!", "fillerEpisodes": ["4, 8, 12, 15-17, 19-20"] },
+  {
+    "animeTitle": "Yu-Gi-Oh! 5D's",
+    "fillerEpisodes": [
+      "67-70, 74-79, 86, 90-93, 95-106, 115-116, 122, 124, 131, 140-141"
+    ]
+  },
+  { "animeTitle": "Yu-Gi-Oh! ARC-V", "fillerEpisodes": ["19-20"] },
+  { "animeTitle": "Yu-Gi-Oh! Capsule Monsters", "fillerEpisodes": ["1-12"] },
+  {
+    "animeTitle": "Yu-Gi-Oh! Duel Monsters",
+    "fillerEpisodes": ["13, 25, 33, 41-45, 74, 80, 98-121, 136, 144-198, 225"]
+  },
+  {
+    "animeTitle": "Yu-Gi-Oh! GX",
+    "fillerEpisodes": [
+      "9, 13-20, 23, 34-35, 38, 42, 47, 54, 60, 63-64, 66, 71-72, 74, 80-81, 85-86, 90-92, 105, 156, 161-167"
+    ]
+  },
+  { "animeTitle": "Yu-Gi-Oh! VRAINS", "fillerEpisodes": ["13, 29, 38"] },
+  { "animeTitle": "Yu-Gi-Oh! Zexal", "fillerEpisodes": ["15-16, 21, 44-45"] },
+  {
+    "animeTitle": "Konjiki no Gash Bell!!",
+    "fillerEpisodes": ["31-35, 89-100, 139-150"]
+  },
+  {
+    "animeTitle": "Case Closed",
+    "fillerEpisodes": [
+      "6, 14, 17, 19, 21, 24-26, 29-30, 33, 36-37, 41, 44-45, 47, 51, 53, 55-56, 59, 61-62, 64-67, 71, 73-74, 79-80, 83, 87-90, 92-95, 97, 106-111, 119-120, 123-127, 135, 140, 143, 148-152, 155, 158-161, 165, 169, 175, 179-187, 196-198, 201-204, 207-211, 214-216, 225, 232, 235-237, 245, 248, 251-252, 255-257, 260-262, 264-265, 273, 276, 281-283, 294-300, 303, 314-315, 318-322, 328, 337, 342, 348-349, 352-353, 357, 360, 363-365, 368-370, 373, 376-380, 384, 388-389, 392-393, 397, 403-405, 409-410, 413-414, 418-420, 423-424, 426, 433-434, 437, 439-442, 448, 450-452, 456, 459, 461, 468, 471, 475, 478, 480, 483, 486, 489, 512, 518-520, 527, 536, 539-541, 544, 547-548, 553-556, 562, 565-567, 570, 577, 582, 588, 591, 594-596, 599, 602-607, 629-631, 634-641, 658, 663-666, 669-670, 677-680, 686-689, 692-698, 707-709, 716-721, 726, 729-730, 733, 735-737, 742-743, 750, 753, 757-758, 761-762, 767-769, 774-778, 784, 789-791, 794-807, 813, 816-821, 824-826, 829, 833-835, 838-842, 845-846, 851-852, 855-860, 865, 868-871, 875-877, 880, 883-884, 891-893, 898-900, 903-908, 911-915, 918, 921-924, 929-940, 943-951, 955-970, 975-982, 985-992, 996-999, 1002, 1006-1010, 1013-1017, 1021-1023, 1026-1028, 1030-1032, 1036-1037, 1039-1041, 1043-1044, 1047-1049"
+    ]
+  },
+  {
+    "animeTitle": "One Piece",
+    "fillerEpisodes": [
+      "54-60, 98-99, 102, 131-143, 196-206, 220-226, 279-283, 291-292, 303, 317-319, 326-336, 382-384, 406-407, 426-429, 457-458, 492, 542, 575-578, 590, 626-627, 747-750, 780-782, 895-896, 907"
+    ]
+  },
+  {
+    "animeTitle": "Boruto: Naruto Next Generations",
+    "fillerEpisodes": [
+      "16-17, 40-41, 49-50, 67-69, 96-97, 112-114, 116-119, 138-140, 152-153, 156"
+    ]
+  },
+  {
+    "animeTitle": "Boruto: Naruto Next Generations",
+    "fillerEpisodes": [
+      "16-17, 40-41, 49-50, 67-69, 96-97, 112-114, 116-119, 138-140, 152-153, 156"
+    ]
+  }
+]

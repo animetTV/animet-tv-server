@@ -1,0 +1,29 @@
+{
+    "anime60fps": [
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/YSK01-S1/8f6bf3e190c6de54bb4eb08f2fd2f8cb2185b39b/ba70eb",
+        "iframe": false,
+        "download": "https://ouo.io/Z9Mm41p",
+        "episode_number": 1
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/YSK02-S1/b784a9e40edc4e5233bca41062b894c5be0cefac/7f5ad4",
+        "iframe": false,
+        "download": "https://ouo.io/zLF0TI",
+        "episode_number": 2
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/YSK03-S1/52f0405a08073b42b11ba01ea04a82ba4b70aa10/0f6b97",
+        "iframe": false,
+        "download": "https://ouo.io/riMFos",
+        "episode_number": 3
+      },
+      {
+        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/YSK04-S1/0f98bcbf0a398d796b73f4c5ccb67c1c78cea42c/ee138f",
+        "iframe": false,
+        "download": "https://ouo.io/LOcvgR",
+        "episode_number": 4
+      }
+    ]
+  }
+  
