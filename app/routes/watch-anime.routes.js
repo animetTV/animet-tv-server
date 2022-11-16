@@ -52,6 +52,7 @@ const love_is_war_ultra_romatic = require(`../../anime60/love_is_war_ultra_romat
 const hajimete_no_hitozuma = require(`../../anime60/hajimete_no_hitozuma.json`);
 const spyxfamily = require(`../../anime60/spyxfamily.json`);
 
+
 const animeLimiter = rateLimit({
     windowMs: 5 * 60 * 1000, // 5 minutes
     max: 60
@@ -64,6 +65,7 @@ const anime60fps = rateLimit({
 
 
 const streamApiURL = process.env.LOCAL_ANIMET_STREAM_API_URL;
+
 router.get(
     '/get-anime-available', 
     animeLimiter,
