@@ -15,6 +15,54 @@ const preparedTitleJson = require("../../preparedtitles.json");
 const AnimettvIndexService = require("../../app/services/animettv-index");
 const AnimettvIndex = require("../../app/models/animetv-index.model");
 const rateLimit = require("express-rate-limit");
+const NodeCache = require("node-cache");
+
+const cache = new NodeCache({ stdTTL: 86400 }); // 24hrs
+
+// cache middleware
+const verifyCacheSeasonDetail = (req, res, next) => {
+  try {
+    if (cache.has(`seasons-data`)) {
+      return res.status(200).json(cache.get(`seasons-data`));
+    }
+    return next();
+  } catch (err) {
+    throw new Error(err);
+  }
+};
+
+const verifyCacheTops = (req, res, next) => {
+  try {
+    if (cache.has(`tops`)) {
+      return res.status(200).json(cache.get(`tops`));
+    }
+    return next();
+  } catch (err) {
+    throw new Error(err);
+  }
+};
+
+const verifyCacheGenres = (req, res, next) => {
+  try {
+    if (cache.has(`genres`)) {
+      return res.status(200).json(cache.get(`genres`));
+    }
+    return next();
+  } catch (err) {
+    throw new Error(err);
+  }
+};
+
+const verifyCacheRecentlyAdded = (req, res, next) => {
+  try {
+    if (cache.has(`recently_added`)) {
+      return res.status(200).json(cache.get(`recently_added`));
+    }
+    return next();
+  } catch (err) {
+    throw new Error(err);
+  }
+};
 
 const searchLimiter = rateLimit({
   windowMs: 1 * 60 * 1000, // 1 minutes
@@ -68,9 +116,10 @@ router.get("/get-season-by-id", async (req, res) => {
   }
 });
 
-router.get("/get-seasons-data", seasonLimiter, async (req, res) => {
+router.get("/get-seasons-data", verifyCacheSeasonDetail, seasonLimiter, async (req, res) => {
   try {
     const AVAILABLE_SEASONS = await SeasonAnime.getSeasonsDetail();
+    cache.set('seasons-data', AVAILABLE_SEASONS);
     res.json(AVAILABLE_SEASONS);
   } catch (error) {
     console.log(error);
@@ -91,13 +140,14 @@ router.get("/search", searchLimiter, async (req, res) => {
   }
 });
 
-router.get('/tops', defaultLimiter, async (req,res) => {
+router.get('/tops', verifyCacheTops, defaultLimiter, async (req,res) => {
   try {
     Top.getAll((err, callback) => {
       if (err) {
         res.sendStatus(404);
       }
       if (callback) {
+        cache.set('top', callback[0]);
         res.json(callback[0]);
       }
     });
@@ -179,12 +229,13 @@ router.get("/all-time-popular-hentai", defaultLimiter, async (req, res) => {
   }
 });
 
-router.get("/genres", defaultLimiter, async (req, res) => {
+router.get("/genres", verifyCacheGenres, defaultLimiter, async (req, res) => {
   Genre.getAnimeGenres((err, result) => {
     if (err) {
       res.sendStatus(404);
       throw err;
     }
+    cache.set('genres', result);
     res.json(result);
   });
 });
@@ -235,7 +286,7 @@ router.get("/prepared-title-all", hardLimiter, async (req, res) => {
   }
 });
 
-router.get("/recently-added", defaultLimiter, async (req, res) => {
+router.get("/recently-added", verifyCacheRecentlyAdded, defaultLimiter, async (req, res) => {
   try {
     RecentlyAdded.getRecentlyAdded((err, result) => {
       if (err) {
@@ -244,6 +295,7 @@ router.get("/recently-added", defaultLimiter, async (req, res) => {
       }
 
       if (result) {
+        cache.set('recently_added', result[0]);
         res.json(result[0]);
       }
     });

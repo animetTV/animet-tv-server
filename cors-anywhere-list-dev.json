@@ -1,0 +1,22 @@
+[
+    {
+        "label": "limited",
+        "continent": "EU",
+        "url": "https://cors-anywhere-hermes.noreply5262.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "NA",
+        "url": "https://cors-anywhere-hermes.noreply5262.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "NA",
+        "url": "https://cors-anywhere.demonking.workers.dev/?"
+    },
+    {
+        "label": "limited",
+        "continent": "EU",
+        "url": "https://cors-anywhere.demonking.workers.dev/?"
+    }
+]
