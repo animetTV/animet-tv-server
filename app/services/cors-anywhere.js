@@ -1,5 +1,5 @@
 const isReachable = require('is-reachable');
-const CorsAnyWhereList = require('../../cors-anywhere-list-dev.json');
+const CorsAnyWhereList = require('../../cors-anywhere-list.json');
 var redis = require('redis');
 
 if (process.env.REDISCLOUD_URL) {
