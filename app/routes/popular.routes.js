@@ -64,6 +64,17 @@ const verifyCacheRecentlyAdded = (req, res, next) => {
   }
 };
 
+const verifyCacheMovies = (req, res, next) => {
+  try {
+    if (cache.has(`movies`)) {
+      return res.status(200).json(cache.get(`movies`));
+    }
+    return next();
+  } catch (err) {
+    throw new Error(err);
+  }
+};
+
 const searchLimiter = rateLimit({
   windowMs: 1 * 60 * 1000, // 1 minutes
   max: 180,
@@ -240,12 +251,13 @@ router.get("/genres", verifyCacheGenres, defaultLimiter, async (req, res) => {
   });
 });
 
-router.get("/movies", defaultLimiter, async (req, res) => {
+router.get("/movies", verifyCacheMovies, defaultLimiter, async (req, res) => {
   Movie.getMovies((err, result) => {
     if (err) {
       res.sendStatus(404);
       throw err;
     }
+    cache.set('movies', result);
     res.json(result);
   });
 });

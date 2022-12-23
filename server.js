@@ -34,6 +34,7 @@ var allowedOrigins = [
     'https://beta.animet.tv',
     'https://beta-animet-stream-api.herokuapp.com/',
     'https://animettv.netlify.app',
+    'https://v3.animet.tv',
     'http://127.0.0.1:5500/',
     
   ];
