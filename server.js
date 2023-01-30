@@ -144,6 +144,9 @@ RecentlyAdded.populateRatingsWithJikan((err, status) => {
 
 const animetrendz = require("./app/services/cron_tasks/get_anitrendz");
 const funimation = require('./app/services/cron_tasks/get_funimation');
+const crunchyroll = require('./app/services/cron_tasks/crunchyroll/index');
+
+
 /* animetrendz.buildTopWeek(res => {
   if (res) {
     animetrendz.updatedTopWeekly(res, (err, result) => {

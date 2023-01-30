@@ -1,8 +1,8 @@
 {
     "anime60fps": [
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/tamako_love_4k_sub/12ceec3cedc5caba9ba71eb4dd26c1634ae538a0/4fce03",
-        "iframe": false,
+        "src": "https://ok.ru/videoembed/5784818027152",
+        "iframe": true,
         "download": "https://ouo.io/osbUE8",
         "episode_number": 1
       }
