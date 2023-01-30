@@ -287,6 +287,18 @@
     "isDownload": false,
     "score": 8.95
   },
+{
+  "title": "Fate/stay night [Heaven's Feel] III. spring song",
+  "cover_img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21719-PKVm9R01Fu1k.jpg",
+  "isDub": false,
+  "isSub": true,
+  "quality": "4k",
+  "isNew": true,
+  "isNSFW": false,
+  "isRemastered": false,
+  "isDownload": false,
+  "score": 8.6
+},
   {
     "title": "Spy x Family",
     "cover_img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
@@ -358,18 +370,6 @@
     "isRemastered": false,
     "isDownload": false,
     "score": 8.46
-  },
-  {
-    "title": "Fate/stay night: Heaven's Feel I",
-    "cover_img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-6Ktwmvm5v2Wf.png",
-    "isDub": false,
-    "isSub": true,
-    "quality": "4k",
-    "isNew": false,
-    "isNSFW": false,
-    "isRemastered": false,
-    "isDownload": false,
-    "score": 8.19
   },
   {
     "title": "Musaigen no Phantom World: Mizutama no Kiseki",

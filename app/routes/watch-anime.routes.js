@@ -51,7 +51,7 @@ const musaigen_no_phantom = require(`../../anime60/musaigen-no-phantom-world.jso
 const love_is_war_ultra_romatic = require(`../../anime60/love_is_war_ultra_romatic.json`);
 const hajimete_no_hitozuma = require(`../../anime60/hajimete_no_hitozuma.json`);
 const spyxfamily = require(`../../anime60/spyxfamily.json`);
-
+const fate_movie_3 = require(`../../anime60/fate_stay_night_movie_3.json`);
 
 const animeLimiter = rateLimit({
     windowMs: 5 * 60 * 1000, // 5 minutes
@@ -239,7 +239,11 @@ router.get(
 
              if (title === 'Demon Slayer Season 1') {
                  res.json(demon_slayer);
-             } else if (title === 'Attack on Titan: The Final Season Part 1') {
+             }
+             else if(title === `Fate/stay night [Heaven's Feel] III. spring song`) {
+                res.json(fate_movie_3);
+             }
+            else if (title === 'Attack on Titan: The Final Season Part 1') {
                  res.json(shingeki_no_kyojin_the_final_season);
             } else if (title === 'One Punch Man') {
                 res.json(one_punch_man);
