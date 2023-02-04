@@ -52,7 +52,7 @@ const love_is_war_ultra_romatic = require(`../../anime60/love_is_war_ultra_romat
 const hajimete_no_hitozuma = require(`../../anime60/hajimete_no_hitozuma.json`);
 const spyxfamily = require(`../../anime60/spyxfamily.json`);
 const fate_movie_3 = require(`../../anime60/fate_stay_night_movie_3.json`);
-
+const a_silent_voice = require(`../../anime60/silent_voice_4k.json`)
 const animeLimiter = rateLimit({
     windowMs: 5 * 60 * 1000, // 5 minutes
     max: 60
@@ -331,6 +331,8 @@ router.get(
                 res.json(hajimete_no_hitozuma);
             } else if (title === `Spy x Family`) {
                 res.json(spyxfamily);
+            } else if (title === `A Silent Voice`) {
+                res.json(a_silent_voice);
             }
          } catch (error) {
              console.log(error);
