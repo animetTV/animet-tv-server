@@ -1,19 +1,19 @@
 {
     "anime60fps": [
       {
-        "src": "https://player.odycdn.com/api/v4/streams/free/SpyxFamily-01-4k/3e89bb62c0ca5dce4e8a18249f71fcaba86b0801/6df04e",
+        "src": "https://odysee.com/$/download/SpyxFamily-01-4k/3e89bb62c0ca5dce4e8a18249f71fcaba86b0801",
         "download": "https://ouo.io/WxTX4Qs",
         "iframe": false,
         "episode_number": 1
       },
       {
-        "src": "https://player.odycdn.com/api/v4/streams/free/SpyxFamily-02-4k-compressed/2a8770c94c52a894c623b9f4ca3d676d53a72c9c/5b1fa4",
+        "src": "https://odysee.com/$/download/SpyxFamily-02-4k-compressed/2a8770c94c52a894c623b9f4ca3d676d53a72c9c",
         "download": "https://ouo.io/ljUE6R",
         "iframe": false,
         "episode_number": 2
       },
       {
-        "src": "https://player.odycdn.com/api/v4/streams/free/SpyxFamily-03-4k-compressed/88808d6ab310b0e5a38f22356d89e28e997bdf30/0e7e33",
+        "src": "https://odysee.com/$/download/SpyxFamily-03-4k-compressed/88808d6ab310b0e5a38f22356d89e28e997bdf30",
         "download": "https://ouo.io/EbkgHdH",
         "iframe": false,
         "episode_number": 3

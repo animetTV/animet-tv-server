@@ -1,55 +1,55 @@
 {
     "anime60fps": [
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-01-1080p60-SUB/5abaa2c8c02cdd95b42f154debe19ade3aaa2562/da938b",
+        "src": "https://odysee.com/$/download/RZS2P2-01-1080p60-SUB/5abaa2c8c02cdd95b42f154debe19ade3aaa2562",
         "download": "https://ouo.io/476Hi1",
         "iframe": false,
         "episode_number": 1
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-02-1080p60-SUB/67f766edb232760fffa4c3210bea586a40102d0e/8dd8bb",
+        "src": "https://odysee.com/$/download/RZS2P2-02-1080p60-SUB/67f766edb232760fffa4c3210bea586a40102d0e",
         "download": "https://ouo.io/m9u8vl",
         "iframe": false,
         "episode_number": 2
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-03-1080p60-SUB/e54dd5c2872c4e04d3366b34562b1eeefbdb49e4/971deb",
+        "src": "https://odysee.com/$/download/RZS2P2-03-1080p60-SUB/e54dd5c2872c4e04d3366b34562b1eeefbdb49e4",
         "download": "https://ouo.io/800lk8",
         "iframe": false,
         "episode_number": 3
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-04-1080p60-SUB/a9f626f0dc0cf3fa88c5a87ec144e9c284231814/c44c5e",
+        "src": "https://odysee.com/$/download/RZS2P2-04-1080p60-SUB/a9f626f0dc0cf3fa88c5a87ec144e9c284231814",
         "download": "https://ouo.io/rD9QET",
         "iframe": false,
         "episode_number": 4
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-05-1080p60-SUB/18159146f0f4c62c1ba7846518eecf7393b1d11b/4c81fb",
+        "src": "https://odysee.com/$/download/RZS2P2-05-1080p60-SUB/18159146f0f4c62c1ba7846518eecf7393b1d11b",
         "download": "https://ouo.io/hxdb4X",
         "iframe": false,
         "episode_number": 5
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-06-1080p60-SUB/20551d26df5f07862611587ed437c33149eacb6a/5da33d",
+        "src": "https://odysee.com/$/download/RZS2P2-06-1080p60-SUB/20551d26df5f07862611587ed437c33149eacb6a",
         "download": "https://ouo.io/x23FfP",
         "iframe": false,
         "episode_number": 6
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-07-cp/71ee0b1b2cfe7fc93f3b56f618a018795096727e/999248",
+        "src": "https://odysee.com/$/download/RZS2P2-07-cp/71ee0b1b2cfe7fc93f3b56f618a018795096727e",
         "download": "https://ouo.io/EJDdiT",
         "iframe": false,
         "episode_number": 7
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-08-cp/fb3ff5d82a968af20e37428897b4df1b9d4f228b/637b2f",
+        "src": "https://odysee.com/$/download/RZS2P2-08-cp/fb3ff5d82a968af20e37428897b4df1b9d4f228b",
         "download": "https://ouo.io/ZRRObn",
         "iframe": false,
         "episode_number": 8
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-09-cp/b2d8286e67a6292d66866707a239e518b4315d86/0f3c59",
+        "src": "https://odysee.com/$/download/RZS2P2-09-cp/b2d8286e67a6292d66866707a239e518b4315d86",
         "download": "https://ouo.io/uAhBpcV",
         "iframe": false,
         "episode_number": 9
@@ -61,7 +61,7 @@
         "episode_number": 10
       },
       {
-        "src": "https://cdn.lbryplayer.xyz/api/v4/streams/free/RZS2P2-11-cp/e46388e2e9fd6b4af342c8f17dc1387cec4e7ab0/5480a1",
+        "src": "https://odysee.com/$/download/RZS2P2-11-cp/e46388e2e9fd6b4af342c8f17dc1387cec4e7ab0",
         "download": "https://ouo.io/Si9JXK",
         "iframe": false,
         "episode_number": 11
